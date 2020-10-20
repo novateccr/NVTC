@@ -1,0 +1,23 @@
+<article class="post-item">
+  <div class="inner">
+      <header>
+        <a href="{{ .Permalink }}"><img src="{{ .Site.Params.cloudinary_url }}f_auto,w_550,h_413,c_fill{{ .Params.imagen_intro }}" alt="{{ .Title }}"></a>
+      </header>
+  	<div class="entry-content">
+  		<h5 class="noticia-title">
+  			<a href="{{ .Permalink }}">{{ .Title }}</a>
+      </h5>
+      <div class="noticias-summary">
+    		{{ .Summary }}
+      </div>
+      <div class="entry-meta">
+  			<div class="meta-inner">
+					<span class="post__date">
+            <i class="fa fa-clock-o"></i>
+            {{ replace (dateFormat "2 #mes#, 2006" .Params.date) "#mes#" (index $.Site.Data.meses (dateFormat "Jan" .Params.date)) }}
+          </span>
+  			</div>
+  		</div>
+  	</div>
+  </div>
+</article>

@@ -1,0 +1,57 @@
+#marcas {
+  ul {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-flow: row wrap;
+  }
+  li {
+    display: inline-block;
+    padding: 5px;
+    margin: 0;
+    flex: 0 0 108px;
+    width: 108px;
+  }
+}
+
+#marca {
+  padding: 4px;
+  margin-bottom: 20px;
+  line-height: 1.42857143;
+  background-color: #ffffff;
+  border: 1px solid #dddddd;
+  border-radius: 3px;
+
+  @include grid-media($tablet-grid) {
+    @include grid-column(3);
+  }
+}
+
+.marca-box {
+  padding: 0 20px 20px 20px;
+  text-align: center;
+
+  a {
+    color: $naranja;
+    font-size: .8em;
+  }
+
+  img {
+    max-width: 100%;
+  }
+}
+
+.marca-tags {
+  border-top: solid 1px $light-grey;
+  padding: 20px;
+  font-size: .8em;
+
+  a {
+    color: $azul;
+    font-size: .8em;
+  }
+}

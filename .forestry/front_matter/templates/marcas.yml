@@ -1,0 +1,66 @@
+---
+label: Marcas
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: id
+  label: Id
+  type: text
+  hidden: false
+  default: ''
+- name: link
+  label: Link
+  type: text
+  hidden: false
+  default: ''
+  description: 'Página del proveedor. Ej: https://rexroth.com'
+- name: catalogo
+  label: Catalogo
+  type: text
+  hidden: false
+  default: ''
+- name: meta_keywords
+  label: Meta keywords
+  type: text
+  hidden: false
+  default: ''
+- name: meta_description
+  label: Meta description
+  type: text
+  hidden: false
+  default: ''
+- name: menu
+  label: Menu
+  type: field_group
+  fields:
+  - name: principal
+    label: Principal
+    type: field_group
+    fields:
+    - name: parent
+      label: Parent
+      type: text
+      hidden: true
+      default: Marcas
+    - name: weight
+      label: Weight
+      type: text
+      hidden: false
+      default: ''
+    hidden: false
+    default: ''
+  hidden: true
+  default: ''
+- name: weight
+  label: Weight
+  type: text
+  hidden: false
+  default: ''
+- type: file
+  label: Logo
+  name: logo
+  description: Archivo jpg o png del logo. El tamaño se ajusta automáticamente

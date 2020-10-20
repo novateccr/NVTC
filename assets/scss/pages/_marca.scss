@@ -1,0 +1,25 @@
+.logo-container{
+  border: solid 1px $light-grey;
+
+  @include grid-media($tablet-grid) {
+    @include grid-column(3);
+  }
+}
+
+.marca-page-logo-content {
+  display: flex;
+  justify-content: center;
+  flex-flow: column nowrap;
+  padding: 5px;
+  overflow: hidden;
+}
+
+.marca-page-logo {
+  border-bottom: solid 1px #ededed;
+}
+
+.marca-page-info {
+  @include grid-media($tablet-grid) {
+    @include grid-column(9);
+  }
+}

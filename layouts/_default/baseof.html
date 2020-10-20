@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+  <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ .Params.description }}">
+  <link rel="shortcut icon" href="/myFavicon.ico" type="image/x-icon" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/site.css" >
+  <script src="/js/svg-injector.min.js"></script>  
+  <script>
+    var mySVGsToInject = document.querySelectorAll('.iconic-sprite');
+    SVGInjector(mySVGsToInject);
+  </script>
+  {{ partial "social-metatags.html" . }}
+</head>
+<body translate="no">
+  {{ partial "header.html" . }}
+  <main id="main">
+    {{ block "page-title" . }}
+    {{ end }}
+    {{ block "main" . }}
+    {{ end }}
+    {{ partial "marcas-home.html" .}}
+  </main>
+  {{ partial "footer.html" . }}
+  {{ if eq (getenv "LOCAL_DEV") "true" }}
+    {{ partial "debug.html" . }}
+  {{ end }}
+<script
+  src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous"></script>
+  <script rel="preload" src="/js/site.js"></script>
+  {{ block "scripts" .}}{{ end }}
+</body>

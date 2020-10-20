@@ -1,0 +1,5 @@
+#producto-main {
+  @include grid-media($tablet-grid) {
+    @include grid-column(9);
+  }
+}

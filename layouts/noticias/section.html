@@ -1,0 +1,18 @@
+{{ define "page-title"}}
+  {{ partial "page-title.html" .}}
+{{ end }}
+
+{{ define "main" }}
+<div class="container">
+  <section id="noticias">
+    {{ range $index, $noticia := (.Paginator 6).Pages }}
+      {{ .Render "summary" }}
+    {{ end }}
+  </section>
+</div>
+
+<div class="text-center">
+  {{ template "_internal/pagination.html" . }}
+</div>
+
+{{ end }}

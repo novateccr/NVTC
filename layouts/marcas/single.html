@@ -1,0 +1,19 @@
+{{ define "page-title"}}
+  {{ partial "page-title.html" .}}
+{{ end }}
+
+{{ define "main" }}
+  <div class='container'>
+    <div class="text-center marca-page-logo logo-container">
+      {{ partial "marca-logo.html" . }}
+    </div>
+    
+    <div class="marca-page-info">
+      {{ .Content }}
+      <h2>Productos</h2>
+      {{ $array := slice .Title }}
+      {{ $paginas := where .Site.RegularPages "Params.marcas" "intersect" $array }}
+      {{ partial "pages-list.html" $paginas }}
+    </div>
+  </div>
+{{ end }}

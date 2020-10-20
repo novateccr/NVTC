@@ -1,0 +1,23 @@
+.contact-form-container {
+  padding: $general-padding;
+
+  h3 {
+    margin: 0;
+  }
+
+  p {
+    margin: 0 0 $general-padding;
+  }
+}
+
+.internal-contact-form {
+  input, textarea {
+    display: block;
+    width: 100%;
+    border: 1px solid $mid-grey;
+    margin-bottom: $general-padding / 2;
+  }
+  textarea {
+    margin-bottom: $general-padding;
+  }
+}

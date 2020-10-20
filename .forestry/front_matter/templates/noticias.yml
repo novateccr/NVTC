@@ -1,0 +1,28 @@
+---
+label: Noticias
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: Date
+  config:
+    required: true
+    date_format: DD/MM/YY
+- type: file
+  name: imagen_intro
+  label: Imagen Intro
+  description: Esta es la imagen que sale en el home
+- type: tag_list
+  name: tags
+  label: Tags
+- type: boolean
+  name: featured
+  label: Featured
+  description: Debe aparecer en el home?
+pages:
+- content/noticias/_index.md

@@ -1,0 +1,72 @@
+---
+label: Productos
+hide_body: false
+display_field: title
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: id
+  label: Id
+  type: text
+  hidden: false
+  default: ''
+- name: marcas
+  label: Marcas
+  type: tag_list
+  hidden: false
+  default: ''
+- name: familias
+  label: Familias
+  type: tag_list
+  hidden: false
+  default: ''
+- name: industrias
+  label: Industrias
+  type: tag_list
+  hidden: false
+  default: ''
+- name: imagen
+  label: Imagen
+  type: file
+  hidden: false
+  default: ''
+- name: catalogo
+  label: Catalogo
+  type: text
+  hidden: false
+  default: ''
+- name: meta_description
+  label: Meta description
+  type: text
+  hidden: false
+  default: ''
+- name: meta_keywords
+  label: Meta keywords
+  type: text
+  hidden: false
+  default: ''
+- name: weight
+  label: Weight
+  type: text
+  hidden: false
+  default: ''
+- name: taxonomyCover
+  label: Taxonomycover
+  type: boolean
+  hidden: false
+  default: ''
+- name: galeria
+  type: image_gallery
+  config: {}
+  label: Galería
+  description: Imágenes adicionales para cada producto. Ancho mínimo 760px
+- name: titulo_adicional
+  type: text
+  config:
+    required: false
+  label: Titulo adicional
+pages:
+- content/productos/_index.md
