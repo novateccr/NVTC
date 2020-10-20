@@ -14,7 +14,7 @@ slides:
   link: ''
 - title: Development Laboratory
   description: Development Laboratory
-  image: https://res.cloudinary.com/drnun7bay/v1603220296/Development_Laboratory_t7zmxp.jpg
+  image: "/v1603227549/Development_Laboratory_k4ivdr.jpg"
   published: true
   link: ''
 barra_azul:
