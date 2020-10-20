@@ -2,6 +2,11 @@
 title: Inicio
 description: Especialistas en soluciones para el manejo y sellado de fluidos
 slides:
+- title: Test
+  description: Test
+  image: "/static/images/slideshow/Rexroth.jpg"
+  published: true
+  link: ''
 - title: Fibra Tuffstrand
   description: 'Fibra Tuffstrand '
   image: "/./fibra-tuffstrand-f.jpg"
