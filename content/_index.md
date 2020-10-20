@@ -2,6 +2,11 @@
 title: Inicio
 description: Especialistas en soluciones para el manejo y sellado de fluidos
 slides:
+- title: product for delivery
+  description: product for delivery
+  image: "/v1603226887/product_for_delivery_z51lyc.jpg"
+  published: true
+  link: ''
 - title: Fibra Tuffstrand
   description: 'Fibra Tuffstrand '
   image: "/v1603219620/samples/landscapes/beach-boat.jpg"
