@@ -65,6 +65,7 @@ fields:
   name: logo
   description: Archivo jpg o png del logo. El tamaño se ajusta automáticamente
 pages:
+- content/marcas/euclid-chemical.md
 - content/marcas/flowcrete.md
 - content/marcas/stego.md
 - content/marcas/tremco.md
