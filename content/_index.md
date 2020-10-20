@@ -4,7 +4,7 @@ description: Especialistas en soluciones para el manejo y sellado de fluidos
 slides:
 - title: Fibra Tuffstrand
   description: 'Fibra Tuffstrand '
-  image: https://res.cloudinary.com/drnun7bay/v1603219960/Fibra_Tuffstrand_f_rfwufq.jpg
+  image: "/v1603219620/samples/landscapes/beach-boat.jpg"
   published: true
   link: ''
 - title: Development Laboratory
