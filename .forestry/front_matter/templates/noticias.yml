@@ -26,3 +26,4 @@ fields:
   description: Debe aparecer en el home?
 pages:
 - content/noticias/_index.md
+- content/noticias/noticia-de-prueba.md
