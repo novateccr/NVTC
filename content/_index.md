@@ -9,7 +9,7 @@ slides:
   link: ''
 - title: Fibra Tuffstrand
   description: 'Fibra Tuffstrand '
-  image: "/v1603219620/samples/landscapes/beach-boat.jpg"
+  image: "/v1603234768/Fibra_Tuffstrand_f_v2akdq.jpg"
   published: true
   link: ''
 - title: Development Laboratory
