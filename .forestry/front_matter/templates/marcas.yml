@@ -66,4 +66,5 @@ fields:
   description: Archivo jpg o png del logo. El tamaño se ajusta automáticamente
 pages:
 - content/marcas/flowcrete.md
+- content/marcas/stego.md
 - content/marcas/tremco.md
