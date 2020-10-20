@@ -2,7 +2,7 @@
 catalogo = ""
 familias = []
 galeria = []
-id = ""
+id = "1"
 imagen = "/v1603231810/Vulkem_801_gxajdu.jpg"
 industrias = []
 marcas = []
