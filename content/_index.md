@@ -10,7 +10,7 @@ slides:
 - title: Fibra Tuffstrand
   description: 'Fibra Tuffstrand '
   image: "/./fibra-tuffstrand-f.jpg"
-  published: true
+  published: false
   link: ''
 - title: Development Laboratory
   description: Development Laboratory
