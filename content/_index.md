@@ -2,11 +2,6 @@
 title: Inicio
 description: Especialistas en soluciones para el manejo y sellado de fluidos
 slides:
-- title: Test
-  description: Test
-  image: "/static/images/slideshow/Rexroth.jpg"
-  published: true
-  link: ''
 - title: Fibra Tuffstrand
   description: 'Fibra Tuffstrand '
   image: https://res.cloudinary.com/drnun7bay/v1603219960/Fibra_Tuffstrand_f_rfwufq.jpg
@@ -14,7 +9,7 @@ slides:
   link: ''
 - title: Development Laboratory
   description: Development Laboratory
-  image: "/./development-laboratory.JPG"
+  image: https://res.cloudinary.com/drnun7bay/v1603220296/Development_Laboratory_t7zmxp.jpg
   published: true
   link: ''
 barra_azul:
