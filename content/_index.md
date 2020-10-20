@@ -9,7 +9,7 @@ slides:
   link: ''
 - title: Fibra Tuffstrand
   description: 'Fibra Tuffstrand '
-  image: "/./fibra-tuffstrand-f.jpg"
+  image: https://res.cloudinary.com/drnun7bay/v1603219960/Fibra_Tuffstrand_f_rfwufq.jpg
   published: false
   link: ''
 - title: Development Laboratory
