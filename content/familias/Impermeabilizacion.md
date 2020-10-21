@@ -1,5 +1,5 @@
 ---
-title: Impermeabilización 2
+title: Impermeabilización
 id: "6"
 imagen: ''
 link: ''
