@@ -66,3 +66,4 @@ fields:
   default: ''
 pages:
 - content/familias/familiprueba.md
+- content/industrias/industria-prueba.md
