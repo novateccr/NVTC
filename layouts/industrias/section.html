@@ -2,22 +2,21 @@
 
 {{ partial "page-title.html" . }}
 <div class="container">
-  
-    <ul class="product-grid">
 
-
-      {{ range where (where .Data.Pages.ByWeight ".Params.id" "!=" nil) ".Params.draft" "!=" true }}
-      <li class="product-grid-block">
-        <a href="{{ .Permalink }}">
-          <div>
-              <img src="{{ $.Site.Params.cloudinary_url }}{{ . }}" alt="{{ .Title }}">
-          </div>
-          <div class="product-block-title" >
-              <h3>{{ .Title }}</h3>
-          </div>
-        </a>
-      </li>
-      {{ .Scratch.Delete "marcas" }}
-      {{ end }}
-    </ul>
+  <ul class="product-grid">
+    
+    {{ range where (where .Data.Pages.ByWeight ".Params.id" "!=" nil) ".Params.draft" "!=" true }}
+    <li class="product-grid-block">
+      <a href="{{ .Permalink }}">
+        <div>
+          <img src="{{ $.Site.Params.cloudinary_url }}{{ .Params.imagen }}" alt="{{ .Title }}" />
+        </div>
+        <div class="product-block-title">
+          <h3>{{ .Title }}</h3>
+        </div>
+      </a>
+    </li>
+    {{ .Scratch.Delete "marcas" }}
+    {{ end }}
+  </ul>
   {{ end }}
