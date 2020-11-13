@@ -21,8 +21,8 @@
     {{ end }}
     {{ block "main" . }}
     {{ end }}
-    {{ partial "marcas-home.html" .}}
   </main>
+  {{ partial "marcas-home.html" .}}
   {{ partial "footer.html" . }}
   {{ if eq (getenv "LOCAL_DEV") "true" }}
     {{ partial "debug.html" . }}
