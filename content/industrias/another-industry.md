@@ -8,7 +8,7 @@ meta_keywords = ""
 title = "Another industry"
 weight = ""
 [menu.principal]
-parent = "Industrias"
+parent = "Servicios"
 weight = "20"
 
 +++
