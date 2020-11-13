@@ -11,3 +11,12 @@ fields:
   type: tag_list
   default: []
   label: Meta Description
+- name: info
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Info
