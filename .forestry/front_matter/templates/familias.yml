@@ -19,5 +19,25 @@ fields:
     schema:
       format: markdown
   label: Info
+- name: menu
+  type: field_group
+  config: {}
+  fields:
+  - name: principal
+    type: field_group
+    config: {}
+    fields:
+    - name: parent
+      type: text
+      config:
+        required: false
+      label: Parent
+    - name: weight
+      type: text
+      config:
+        required: false
+      label: Weight
+    label: Principal
+  label: Menu
 pages:
 - content/familias/familusqui.md
