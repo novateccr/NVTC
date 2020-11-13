@@ -1,7 +1,7 @@
 ---
-title: "Pisos Industriales y Comerciales"
+title: Pisos Industriales y Comerciales
 id: "3"
-imagen: ""
+imagen: ''
 link: ''
 catalogo: ''
 meta_keywords: ''
@@ -10,6 +10,6 @@ weight: "1"
 menu:
   principal:
     parent: Servicios
-    weight: 10
+    weight: 7
 
 ---

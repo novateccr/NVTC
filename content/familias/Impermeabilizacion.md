@@ -10,6 +10,6 @@ weight: "9"
 menu:
   principal:
     parent: Productos
-    weight: 7
+    weight: 1
 
 ---

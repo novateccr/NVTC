@@ -1,7 +1,7 @@
 ---
-title: "Curado y Sellado de concreto"
+title: Curado y Sellado de concreto
 id: "2"
-imagen: ""
+imagen: ''
 link: ''
 catalogo: ''
 meta_keywords: ''
@@ -10,6 +10,6 @@ weight: "1"
 menu:
   principal:
     parent: Servicios
-    weight: 10
+    weight: 6
 
 ---

@@ -9,6 +9,6 @@ title = "STEGO"
 weight = ""
 [menu.principal]
 parent = "Marcas"
-weight = 11
+weight = 3
 
 +++

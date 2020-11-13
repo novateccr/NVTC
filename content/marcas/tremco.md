@@ -9,6 +9,6 @@ title = "Tremco"
 weight = ""
 [menu.principal]
 parent = "Marcas"
-weight = 10
+weight = 2
 
 +++

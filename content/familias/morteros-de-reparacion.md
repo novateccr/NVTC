@@ -1,11 +1,11 @@
 ---
 title: Morteros de Reparación
 id: "7"
-imagen: ""
+imagen: ''
 link: ''
 catalogo: 
-meta_keywords:
-meta_description:
+meta_keywords: 
+meta_description: 
 weight: "9"
 menu:
   principal:

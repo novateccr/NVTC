@@ -1,7 +1,7 @@
 ---
-title: "Impermeabilizantes"
+title: Impermeabilizantes
 id: "1"
-imagen: ""
+imagen: ''
 link: ''
 catalogo: ''
 meta_keywords: ''
@@ -10,6 +10,6 @@ weight: "1"
 menu:
   principal:
     parent: Servicios
-    weight: 10
+    weight: 3
 
 ---

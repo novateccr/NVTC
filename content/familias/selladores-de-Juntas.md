@@ -1,7 +1,7 @@
 ---
 title: Selladores de Juntas
 id: "10"
-imagen: ""
+imagen: ''
 link: ''
 catalogo: 
 meta_keywords: 
@@ -10,6 +10,6 @@ weight: "9"
 menu:
   principal:
     parent: Productos
-    weight: 7
+    weight: 9
 
 ---

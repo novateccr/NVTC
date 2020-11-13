@@ -9,6 +9,6 @@ title = "Euclid Chemical"
 weight = ""
 [menu.principal]
 parent = "Marcas"
-weight = 12
+weight = 4
 
 +++

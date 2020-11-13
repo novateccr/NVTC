@@ -1,7 +1,7 @@
 ---
-title: "Protección contra fuego"
+title: Protección contra fuego
 id: "5"
-imagen: ""
+imagen: ''
 link: ''
 catalogo: ''
 meta_keywords: ''
@@ -10,6 +10,6 @@ weight: "1"
 menu:
   principal:
     parent: Servicios
-    weight: 10
+    weight: 2
 
 ---

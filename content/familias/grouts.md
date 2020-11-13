@@ -1,15 +1,15 @@
 ---
-title: Grouts 
+title: Grouts
 id: "5"
-imagen: ""
+imagen: ''
 link: ''
 catalogo: 
-meta_keywords:
-meta_description:
+meta_keywords: 
+meta_description: 
 weight: "9"
 menu:
   principal:
     parent: Productos
-    weight: 7
+    weight: 6
 
 ---

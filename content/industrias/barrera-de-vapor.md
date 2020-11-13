@@ -1,7 +1,7 @@
 ---
-title: "Instalación de barreras de vapor"
+title: Instalación de barreras de vapor
 id: "4"
-imagen: ""
+imagen: ''
 link: ''
 catalogo: ''
 meta_keywords: ''
@@ -10,5 +10,6 @@ weight: "1"
 menu:
   principal:
     parent: Servicios
-    weight: 10
+    weight: 5
+
 ---

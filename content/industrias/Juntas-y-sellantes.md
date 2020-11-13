@@ -1,7 +1,7 @@
 ---
-title: "Juntas  y Sellantes"
+title: Juntas  y Sellantes
 id: "4"
-imagen: ""
+imagen: ''
 link: ''
 catalogo: ''
 meta_keywords: ''
@@ -10,6 +10,6 @@ weight: "1"
 menu:
   principal:
     parent: Servicios
-    weight: 10
+    weight: 4
 
 ---
