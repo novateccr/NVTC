@@ -66,3 +66,4 @@ fields:
   default: ''
 pages:
 - content/industrias/industria-de-prueba.md
+- content/industrias/otra-industria.md
