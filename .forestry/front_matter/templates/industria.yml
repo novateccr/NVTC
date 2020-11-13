@@ -42,5 +42,25 @@ fields:
   type: text
   hidden: false
   default: ''
+- name: menu
+  type: field_group
+  config: {}
+  fields:
+  - name: principal
+    type: field_group
+    config: {}
+    fields:
+    - name: parent
+      type: text
+      config:
+        required: false
+      label: Parent
+    - name: weight
+      type: text
+      config:
+        required: false
+      label: Weight
+    label: Principal
+  label: Menu
 pages:
 - content/industrias/another-industry.md
