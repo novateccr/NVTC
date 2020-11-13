@@ -1,4 +1,13 @@
 ---
 label: Contáctenos
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: meta_description
+  type: tag_list
+  default: []
+  label: Meta Description
