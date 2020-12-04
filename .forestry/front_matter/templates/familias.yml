@@ -40,5 +40,4 @@ fields:
     label: Principal
   label: Menu
 pages:
-- content/familias/familia-z.md
 - content/familias/familusqui.md
