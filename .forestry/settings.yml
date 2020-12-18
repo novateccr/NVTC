@@ -38,7 +38,7 @@ sections:
   path: data/social.yml
   label: Social Networks
 upload_dir: ''
-public_path: https://res.cloudinary.com/drnun7bay
+public_path: https://res.cloudinary.com/drnun7bay/image/upload
 front_matter_path: ''
 use_front_matter_path: true
 file_template: ":filename:"
