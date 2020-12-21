@@ -12,8 +12,8 @@ slides:
   image: "/v1603234768/Fibra_Tuffstrand_f_v2akdq.jpg"
   published: true
   link: ''
-- title: Development Laboratory
-  description: Development Laboratory
+- title: 'Laboratorio de Desarrollo '
+  description: Productos
   image: "/v1603227549/Development_Laboratory_k4ivdr.jpg"
   published: true
   link: ''
