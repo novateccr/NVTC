@@ -2,8 +2,8 @@
 title: Inicio
 description: Especialistas en soluciones para el manejo y sellado de fluidos
 slides:
-- title: product for delivery
-  description: product for delivery
+- title: Eucofast
+  description: Mortero de fraguado
   image: "/v1603226887/product_for_delivery_z51lyc.jpg"
   published: true
   link: ''
