@@ -35,11 +35,11 @@ Recubrimiento cementicio para trabajo pesado cuya finalidad es impermeabilizar y
 * Fácil de mezclar y aplicar.
 * Sus colores decorativos combinan la apariencia con protección de larga duración.
 
-![](https://res.cloudinary.com/drnun7bay/image/upload/v1608585906/eucoseal_mpc0ds.png)
+![](https://res.cloudinary.com/drnun7bay/image/upload/v1608591003/eucoseal_imhnnu.png)
 
 ## [**2- Vandex Super Grey:**](http://www.toxement.com.co/productos/l%C3%ADneas-especiales/vandex/)
 
-VANDEX SUPER es un producto impermeabilizante y protector que se aplica sobre superficies de concreto, sólo requiere de agua para su mezcla y posterior aplicación. Al aplicarse VANDEX SUPER sobre superficies de concreto, los componentes activos que lo conforman se combinan con la cal libre y el agua presente en el concreto, formando complejos cristalinos insolubles. Esta cristalización bloquea los capilares del concreto y fisuras evitando el paso del agua (incluso a presión negativa). 
+VANDEX SUPER es un producto impermeabilizante y protector que se aplica sobre superficies de concreto, sólo requiere de agua para su mezcla y posterior aplicación. Al aplicarse VANDEX SUPER sobre superficies de concreto, los componentes activos que lo conforman se combinan con la cal libre y el agua presente en el concreto, formando complejos cristalinos insolubles. Esta cristalización bloquea los capilares del concreto y fisuras evitando el paso del agua (incluso a presión negativa).
 
 #### **Usos:**
 
