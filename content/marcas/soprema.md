@@ -1,6 +1,5 @@
 +++
 catalogo = ""
-draft = true
 id = ""
 link = "https://www.soprema.es/es/"
 logo = "/v1608583140/200-200-soprema-group_e2321132792a741bbd4744c138ad3215_f6zvzo.webp"
