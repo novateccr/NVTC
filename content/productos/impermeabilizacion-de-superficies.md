@@ -60,7 +60,7 @@ VANDEX SUPER es un producto impermeabilizante y protector que se aplica sobre su
 * Actúa tanto en presión positiva como en negativa;
 * Está disponible en colores blanco y gris;
 
-![](https://res.cloudinary.com/drnun7bay/image/upload/v1608587561/2020-12-21_bptmc6.png)
+  ![](https://res.cloudinary.com/drnun7bay/image/upload/v1608591221/2020-12-21_m8vj7x.png)
 
 ## [**3- Eucoplus 1000:**](http://www.toxement.com.co/productos/portafolio/tratamientos-para-muros/impermeabilizaci%C3%B3n-de-superficies/?prodId=1318)
 
@@ -83,4 +83,4 @@ Este producto también puede usarse como capa regularizante antes de aplicar pro
 * Excelente adherencia sin necesidad de usar lechada o Primer;
 * Puede ser reforzado con tela de poliéster;
 
-![](https://res.cloudinary.com/drnun7bay/image/upload/v1608587890/2020-12-21_1_uhxjlw.png)
+![](https://res.cloudinary.com/drnun7bay/image/upload/v1608591236/2020-12-21_1_rscjyh.png)
