@@ -18,9 +18,9 @@ slides:
   published: true
   link: ''
 barra_azul:
-  titular: Debido a la situación del COVID19, para una mejor atención favor escribir
-    a sac-nc@novatec.cr - El ingreso a nuestras oficinas estará más restringido !!
-  subtitular: 'WhatsApp +506 6383-6383 '
+  titular: Estaremos cerrados a partir del miércoles 23 de diciembre y regresaremos
+    a labores el lunes 4 de enero!
+  subtitular: 'Para emergencias: asistencia-nc@novatec.cr'
 barra_fondo_imagen:
   texto: Juntos, enfrentamos una situación verdaderamente sin precedentes. La pandemia
     global de COVID-19 afecta a nuestras familias, nuestros negocios, nuestras comunidades
