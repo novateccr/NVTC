@@ -1,7 +1,7 @@
 ---
 title: Tratamientos para muros
 id: "1"
-imagen: v1608584127/WhatsApp_Image_2020-03-05_at_14.33.06_nm2sfd.jpg
+imagen: "/v1608584127/WhatsApp_Image_2020-03-05_at_14.33.06_nm2sfd.jpg"
 link: ''
 catalogo: 
 meta_keywords: 
