@@ -1,5 +1,4 @@
 +++
-draft = true
 imagen = ""
 info = ""
 title = "Equipos de limpieza"
