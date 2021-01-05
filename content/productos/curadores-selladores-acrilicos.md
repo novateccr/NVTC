@@ -14,7 +14,7 @@ titulo_adicional = ""
 weight = ""
 
 +++
-## Novatec Construcción ofrece los siguientes productos para los Curadores - Selladores Acrílicos:
+## Novatec Construcción ofrece el siguiente producto referente a la familia de Curadores - Selladores Acrílicos:
 
 ## [**1- Everclear 350:**](https://www.euclidchemical.com/products/construction-products/curing-sealing-compounds/solvent-based-acrylic/everclear-350/)
 
