@@ -16,11 +16,11 @@ weight = ""
 +++
 ## Novatec Construcción ofrece los siguientes productos para los Curadores - Selladores Acrílicos:
 
-## **1- Everclear 350:**
+## [**1- Everclear 350:**](https://www.euclidchemical.com/products/construction-products/curing-sealing-compounds/solvent-based-acrylic/everclear-350/)
 
-Es un compuesto de curado acrílico puro que cura y sella protegiendo y mejorando la apariencia del concreto con una película transparente que no amarillea, que es más duradera que los productos de curado y sellado de mezcla de polímero estándar. 
+Es un compuesto de curado acrílico puro que cura y sella protegiendo y mejorando la apariencia del concreto con una película transparente que no amarillea, que es más duradera que los productos de curado y sellado de mezcla de polímero estándar.
 
-EVERCLEAR 350 está formulado en un vehículo solvente exento formulado para su uso en áreas reguladas por COV. 
+EVERCLEAR 350 está formulado en un vehículo solvente exento formulado para su uso en áreas reguladas por COV.
 
 #### **Características y beneficios:**
 
