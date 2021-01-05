@@ -3,7 +3,7 @@ catalogo = ""
 familias = ["Compuestos Curadores y Selladores"]
 galeria = []
 id = ""
-imagen = ""
+imagen = "/v1609884243/WhatsApp_Image_2020-03-05_at_14.18.51_hkcmi3.jpg"
 industrias = []
 marcas = ["toxement"]
 meta_description = "Curadores"
@@ -41,4 +41,30 @@ El producto puede ser utilizado en:
 
   ![](https://res.cloudinary.com/drnun7bay/image/upload/v1609883948/WhatsApp_Image_2021-01-05_at_15.58.25_tdzw0j.jpg)
 
-2- 
+## [**2- Euco Curador ER:**](https://www.toxement.com.co/productos/portafolio/compuestos-curadores-y-selladores/curadores/?prodId=1395)
+
+**EUCO CURADOR ER** es un compuesto curador formador de membrana, formulado a partir de resinas, que promueve un excelente curado para el concreto permitiéndole retener el agua suficiente para alcanzar la resistencia de diseño.
+
+**EUCO CURADOR ER** puede ser fácilmente removido de la superficie del concreto permitiendo la aplicación de recubrimientos, selladores u otro tipo de acabados.
+
+**EUCO CURADOR ER** cumple con la norma ASTM C-309 Tipo I.
+
+#### **Usos:**
+
+* Pisos industriales y comerciales.
+* Bodegas y centros de almacenamiento.
+* Concretos que posteriormente van a recibir un terminado.
+* Donde no se desee una membrana que permanezca a largo plazo sobre el concreto.
+
+**Nota:** Se recomienda su uso en superficies horizontales. En áreas verticales tales como muros o columnas, puede hacerse difícil su limpieza, por ello se recomienda hacer pruebas preliminares.
+
+#### **Ventajas:**
+
+* Forma una barrera eficiente contra la humedad para un óptimo curado del concreto.
+* Puede ser retirado de la superficie mediante un lavado con algunos limpiadores de uso común.
+* Ayuda al concreto a alcanzar las propiedades de diseño a través de una hidratación correcta del cemento.
+* No mancha ni amarilla el concreto.
+* No contiene solventes.
+* Ayuda a minimizar el espolvoreo del concreto.
+
+![](https://res.cloudinary.com/drnun7bay/image/upload/v1609884541/WhatsApp_Image_2021-01-05_at_16.08.28_nicnnp.jpg)
