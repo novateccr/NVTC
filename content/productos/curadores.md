@@ -16,7 +16,7 @@ weight = ""
 +++
 ## Novatec Construcción ofrece los siguientes productos para los Compuestos Curadores y Selladores:
 
-### **1- Curaseal PF:**
+## [**1- Curaseal PF:**](https://www.toxement.com.co/productos/portafolio/compuestos-curadores-y-selladores/curadores/?prodId=1393)
 
 **URASEAL PF** es una emulsión de partículas de parafina, para ser utilizada como membrana curadora de concreto o mortero fresco.
 
@@ -33,10 +33,12 @@ El producto puede ser utilizado en:
 * Concretos expuestos a condiciones severas de temperaturas.
 * Concretos expuestos a fuertes corrientes de aire.
 
-#### **Ventajas:** 
+#### **Ventajas:**
 
 * Evita los efectos negativos de evaporación de agua en la superficie del concreto.
 * Al evitar la evaporación del agua, permite la mejor hidratación del cemento.
 * Permite controlar el agrietamiento del concreto o mortero, debido a la contracción plástica.
 
   ![](https://res.cloudinary.com/drnun7bay/image/upload/v1609883948/WhatsApp_Image_2021-01-05_at_15.58.25_tdzw0j.jpg)
+
+2- 
