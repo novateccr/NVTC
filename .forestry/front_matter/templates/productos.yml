@@ -70,6 +70,7 @@ fields:
   label: Titulo adicional
 pages:
 - content/productos/_index.md
+- content/productos/curadores.md
 - content/productos/impermeabilizacion-de-superficies.md
 - content/productos/titulo-de-producto-goes-her.md
 - content/productos/vandex-super.md
