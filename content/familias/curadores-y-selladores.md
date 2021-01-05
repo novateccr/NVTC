@@ -1,5 +1,5 @@
 ---
-title: Curadores y selladores
+title: Compuestos Curadores y Selladores
 id: "2"
 imagen: ''
 link: ''
