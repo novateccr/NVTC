@@ -1,5 +1,5 @@
 ---
-title: Recubrimientos epóxicos.
+title: Recubrimientos epóxicos
 id: "8"
 imagen: "/v1609888042/WhatsApp_Image_2021-01-05_at_17.07.04_w3mie6.jpg"
 link: ''
