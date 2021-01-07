@@ -1,6 +1,6 @@
 +++
 catalogo = ""
-familias = ["Impermeabilizantes"]
+familias = ["Impermeabilizantes  "]
 galeria = []
 id = ""
 imagen = "/v1610053301/WhatsApp_Image_2020-03-05_at_14.27.20_omb6td.jpg"
