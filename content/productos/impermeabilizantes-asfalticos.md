@@ -25,7 +25,7 @@ Es un compuesto bituminoso de aplicación en frío, color negro - café, elabora
 **EMULSIÓN ASFÁLTICA ECO** es recomendada cuando se requiere una membrana que actúe como barrera contra el agua y la humedad, en obras como:
 
 * Impermeabilización de cubiertas y terrazas de concreto, mortero, mampostería y madera.
-* Impermeabilización y protección de jardines, cárcamos, baños y muros.
+* Impermeabilización y protección de jardines, cárcamos, baños y muros..
 
 #### **Ventajas:**
 
