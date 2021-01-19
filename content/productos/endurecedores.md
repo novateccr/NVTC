@@ -1,6 +1,6 @@
 +++
 catalogo = ""
-familias = ["Pisos industriales y comerciales"]
+familias = ["Pisos Industriales y Comerciales"]
 galeria = []
 id = ""
 imagen = "/v1611083907/WhatsApp_Image_2020-03-05_at_14.18.50_tyqzan.jpg"
