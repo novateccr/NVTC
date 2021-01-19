@@ -1,7 +1,7 @@
 ---
-title: Densificadores líquidos
+title: Pisos industriales y comerciales
 id: "3"
-imagen: ''
+imagen: "/v1611080877/WhatsApp_Image_2020-03-05_at_13.39.21_ar9cta.jpg"
 link: ''
 catalogo: 
 meta_keywords: 
