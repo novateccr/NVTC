@@ -18,7 +18,7 @@ weight = ""
 
 ## [**1- SURFLEX:**](https://www.toxement.com.co/productos/portafolio/pisos-industriales-y-comerciales/endurecedores-siliceos/?prodId=1544)
 
-Es un endurecedor para pisos de concreto, consiste en una mezcla de agregados no metálicos, de granulometría fina, con base en sílice de cuarzo, cemento y aditivos.
+Es un endurecedor para pisos de concreto, consiste en una mezcla de agregados no metálicos, de granulometría fina, con base en sílice de cuarzo, cemento y aditivos..
 
 **SURFLEX** está diseñado para la aplicación en pisos donde se requiera una planicidad específica.
 
