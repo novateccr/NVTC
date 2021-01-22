@@ -1,5 +1,5 @@
 ---
-title: Fibras
+title: 'Fibras '
 id: "4"
 imagen: ''
 link: ''
@@ -11,5 +11,6 @@ menu:
   principal:
     parent: Productos
     weight: 5
+draft: true
 
 ---
