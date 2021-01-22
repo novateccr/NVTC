@@ -1,7 +1,7 @@
 ---
 title: 'Fibras '
 id: "4"
-imagen: ''
+imagen: "/v1611339803/WhatsApp_Image_2021-01-22_at_12.23.00_q6fbbf.jpg"
 link: ''
 catalogo: 
 meta_keywords: 
@@ -11,6 +11,5 @@ menu:
   principal:
     parent: Productos
     weight: 5
-draft: true
 
 ---
