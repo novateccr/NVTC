@@ -45,17 +45,9 @@ EUCO 455 MV cumple con los requerimientos de la norma ASTM C-881-02 Tipo II, Gra
 EUCO 455 MV es especialmente recomendado para adherirmconcreto nuevo a concreto viejo o endurecido.
 
 * Para adherir reparaciones en elementos estructurales.
-
-
 * Elementos prefabricados.
-
-
 * Para adherir morteros epóxicos en superficies húmedas.
-
-
 * Anclaje de varillas de acero, dovelas y pines.
-
-
 * Mezcla con arena silicua seca para formar un mortero de reparación.
 
 #### **Ventajas:**
