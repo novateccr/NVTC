@@ -14,7 +14,7 @@ titulo_adicional = ""
 weight = ""
 
 +++
-## Novatec Construcción ofrece el siguiente producto para sellos de poliuretano:
+## Novatec Construcción ofrece los siguientes productos para sellos de poliuretano:
 
 ## [**1- Dymonic 100:**](http://www.eucomex.com.mx/portafolio/productos/selladores-rellenos/poliuretano/dymonic-100/)
 
