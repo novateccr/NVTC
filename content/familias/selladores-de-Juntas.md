@@ -1,5 +1,5 @@
 ---
-title: Selladores de Juntas
+title: Juntas y Selladores
 id: "10"
 imagen: ''
 link: ''
@@ -11,5 +11,6 @@ menu:
   principal:
     parent: Productos
     weight: 9
+draft: true
 
 ---
