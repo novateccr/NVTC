@@ -1,7 +1,7 @@
 +++
 catalogo = ""
 familias = ["Recubrimientos epóxicos"]
-galeria = ["/v1611944259/duralkote_240_iegacf.jpg"]
+galeria = ["/v1611944473/WhatsApp_Image_2021-01-29_at_12.15.50_xpadlu.jpg"]
 id = ""
 imagen = "/v1609888352/WhatsApp_Image_2021-01-05_at_17.12.13_wykhwu.jpg"
 industrias = []
