@@ -1,6 +1,6 @@
 +++
 catalogo = ""
-familias = ["Fibras."]
+familias = []
 galeria = []
 id = ""
 imagen = "/v1611340115/WhatsApp_Image_2021-01-22_at_12.28.16_rjdqx4.jpg"
