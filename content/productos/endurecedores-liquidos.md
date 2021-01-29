@@ -39,7 +39,7 @@ Mezcla única de silicatos y polímeros de siliconato que penetran las superfici
 * Se puede aplicar a concreto nuevo o existente.
 * Se puede aplicar a concreto nuevo o existente.
 
-![](https://res.cloudinary.com/drnun7bay/image/upload/v1611089813/WhatsApp_Image_2021-01-19_at_14.55.21_efluls.jpg)
+![](https://res.cloudinary.com/drnun7bay/image/upload/v1611089828/WhatsApp_Image_2021-01-19_at_14.55.47_agnxky.jpg)
 
 ## [**2- Ultrasil Li+:**](https://www.euclidchemical.com/products/construction-products/liquid-densifiers/ultrasil-liplus/)
 
@@ -70,4 +70,4 @@ DENSIFICADOR, SELLADOR Y FERMENTADOR DE POLVO PARA HORMIGÓN.
 * Habitaciones limpias
 * Salas mecánicas
 
-![](https://res.cloudinary.com/drnun7bay/image/upload/v1611089828/WhatsApp_Image_2021-01-19_at_14.55.47_agnxky.jpg)
+![](https://res.cloudinary.com/drnun7bay/image/upload/v1611089813/WhatsApp_Image_2021-01-19_at_14.55.21_efluls.jpg)
