@@ -36,3 +36,5 @@ Es un sistema epóxico, 100% sólidos de dos componentes, diseñado como recubri
 * Acabado brilloso.
 * Alta especificación.
 * Disponible en 33 colores, utilizando Color Packs.
+
+![](https://res.cloudinary.com/drnun7bay/image/upload/v1611944259/duralkote_240_iegacf.jpg)
