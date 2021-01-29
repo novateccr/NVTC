@@ -18,7 +18,7 @@ weight = ""
 
 ## [**1- Euco Carbon Fiber CFS 600:**](https://www.toxement.com.co/productos/portafolio/reparaci%C3%B3n-vertical-y-sobre-cabeza/fibras-de-carbono-para-reparaci%C3%B3n-estructural/?prodId=1742)
 
-**EUCO CARBON FIBER CFS 600** es un tejido de fibras de carbono, de alta resistencia y de alto módulo. Este material es utilizado en conjunto con el DURALCRETE ESR para formar el sistema de polímero reforzado con fibras de carbono (FRP), usado para incrementar la resistencia y desempeño de los elementos estructurales.
+**EUCO CARBON FIBER CFS 600** es un tejido de fibras de carbono, de alta resistencia y de alto módulo. Este material es utilizado en conjunto con el DURALCRETE ESR para formar el sistema de polímero reforzado con fibras de carbono (FRP), usado para incrementar la resistencia y desempeño de los elementos estructurales...
 
 #### **Usos:**
 
