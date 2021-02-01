@@ -1,7 +1,7 @@
 ---
 title: Grouts y anclaje para obra civil
 id: "5"
-imagen: "/v1612220984/Dise%C3%B1o_sin_t%C3%ADtulo_5_y5vslq.png"
+imagen: "/v1612221377/Dise%C3%B1o_sin_t%C3%ADtulo_6_k6lzw9.png"
 link: ''
 catalogo: 
 meta_keywords: 
