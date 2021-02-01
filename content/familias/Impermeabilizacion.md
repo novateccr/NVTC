@@ -1,7 +1,7 @@
 ---
 title: 'Impermeabilizantes  '
 id: "6"
-imagen: "/v1612215448/WhatsApp_Image_2021-02-01_at_15.37.08_bcxqxf.jpg"
+imagen: "/v1612220619/Dise%C3%B1o_sin_t%C3%ADtulo_3_pswwjl.png"
 link: ''
 catalogo: 
 meta_keywords: 
