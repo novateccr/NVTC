@@ -1,7 +1,7 @@
 ---
 title: Fibras
 id: "4"
-imagen: "/v1612219733/Dise%C3%B1o_sin_t%C3%ADtulo_2_b2wxww.png"
+imagen: "/v1612221705/Dise%C3%B1o_sin_t%C3%ADtulo_9_f3rwkd.png"
 link: ''
 catalogo: 
 meta_keywords: 
