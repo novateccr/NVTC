@@ -1,7 +1,7 @@
 ---
 title: Compuestos Curadores y Selladores
 id: "2"
-imagen: "/v1609883060/WhatsApp_Image_2020-03-05_at_14.18.52_ofgnz0.jpg"
+imagen: "/v1612220831/Dise%C3%B1o_sin_t%C3%ADtulo_4_umowhk.png"
 link: ''
 catalogo: 
 meta_keywords: 
