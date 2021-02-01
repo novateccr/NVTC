@@ -1,7 +1,7 @@
 ---
 title: Fibras
 id: "4"
-imagen: "/v1611339803/WhatsApp_Image_2021-01-22_at_12.23.00_q6fbbf.jpg"
+imagen: "/v1612219733/Dise%C3%B1o_sin_t%C3%ADtulo_2_b2wxww.png"
 link: ''
 catalogo: 
 meta_keywords: 
