@@ -1,7 +1,7 @@
 ---
 title: Pisos industriales y comerciales
 id: "3"
-imagen: "/v1611080877/WhatsApp_Image_2020-03-05_at_13.39.21_ar9cta.jpg"
+imagen: "/v1612280552/Dise%C3%B1o_sin_t%C3%ADtulo_13_g0c7ra.png"
 link: ''
 catalogo: 
 meta_keywords: 
