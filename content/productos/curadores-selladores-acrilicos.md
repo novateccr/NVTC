@@ -1,6 +1,6 @@
 +++
 catalogo = ""
-familias = ["Compuestos Curadores y Selladores"]
+familias = ["Curadores y Selladores"]
 galeria = []
 id = ""
 imagen = "/v1609884779/WhatsApp_Image_2021-01-05_at_16.12.35_pvgxf3.jpg"
