@@ -1,7 +1,7 @@
 ---
 title: Morteros de Reparación
 id: "7"
-imagen: "/v1611338723/WhatsApp_Image_2021-01-22_at_12.05.03_g3hqdt.jpg"
+imagen: "/v1612280389/Dise%C3%B1o_sin_t%C3%ADtulo_12_uj7qv6.png"
 link: ''
 catalogo: 
 meta_keywords: 
