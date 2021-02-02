@@ -42,6 +42,4 @@ weight = ""
 * La reparación no adiciona mucho peso muerto a la estructura.
 * Ofrece reparaciones extremadamente durables ya que el material no se corroe.
 * Resistencia extrema al intemperismo y condiciones ambientales difíciles.
-* Bajo impacto estético.
-
-      ![](https://res.cloudinary.com/drnun7bay/image/upload/v1612306299/HTB1B6r1X.jrK1RkHFNRq6ySvpXaF_clhgyq.jpg)
+* Bajo impacto estético.   ![](https://res.cloudinary.com/drnun7bay/image/upload/v1612306299/HTB1B6r1X.jrK1RkHFNRq6ySvpXaF_clhgyq.jpg)
