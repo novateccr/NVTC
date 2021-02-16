@@ -9,7 +9,7 @@ marcas = ["euclid"]
 meta_description = "Impermeabilizantes base poliuretano "
 meta_keywords = "Impermeabilizantes base poliuretano "
 taxonomyCover = false
-title = "Impermeabilizantes base poliuretano "
+title = "Impermeabilizantes poliuretano "
 titulo_adicional = ""
 weight = ""
 
