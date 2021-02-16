@@ -42,7 +42,7 @@ Base para los sistemas impermeables peatonales y vehiculares, así como membrana
 * Disponible en dos viscosidades;
 * Excelente adherencia y flexibilidad;
 
-![](https://res.cloudinary.com/drnun7bay/image/upload/v1613509283/WhatsApp_Image_2021-02-16_at_14.51.02-standard-scale-4_00x-gigapixel_1_bsw8tg.jpg)
+![](https://res.cloudinary.com/drnun7bay/image/upload/v1613509369/WhatsApp_Image_2021-02-16_at_14.51.02-standard-scale-4_00x-gigapixel_1_xidjmp.jpg)
 
 ## **2- Tremproof 260:**
 
