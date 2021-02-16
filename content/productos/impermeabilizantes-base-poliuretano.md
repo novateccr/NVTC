@@ -14,7 +14,7 @@ titulo_adicional = ""
 weight = ""
 
 +++
-## Novatec Construcción ofrece el siguiente impermeabilizante a base de poliuretano: 
+## Novatec Construcción ofrece el siguiente impermeabilizante a base de poliuretano:
 
 ## [**1- Vulkem 350 NF:**](https://www.toxement.com.co/productos/l%C3%ADneas-especiales/tremco/)
 
@@ -52,9 +52,11 @@ Las aplicaciones típicas para TREMproof 260 incluyen muros de cimientos, muros 
 
 #### **Ventajas:**
 
-• TREMproof 260 es una membrana impermeabilizante que se adhiere completamente y que puede aplicarse sobre concreto húmedo o verde, lo que permite que la aplicación sea más rápida después de retirar las cimbras o después de clima húmedo. 
+• TREMproof 260 es una membrana impermeabilizante que se adhiere completamente y que puede aplicarse sobre concreto húmedo o verde, lo que permite que la aplicación sea más rápida después de retirar las cimbras o después de clima húmedo.
 
 • La capacidad para co-rociar el material para acelerar el proceso de curado, permite acelerar la construcción y reducir el potencial de deslavado durante climas extremos.
+
+![](https://res.cloudinary.com/drnun7bay/image/upload/v1613508480/WhatsApp_Image_2021-01-21_at_10.37.10-standard-scale-4_00x-gigapixel_ss0ehl.jpg)
 
 ## [**3- Vulkem 350 NF (R, SL) / 345 / 346:**](https://www.toxement.com.co/productos/l%C3%ADneas-especiales/tremco/)
 
