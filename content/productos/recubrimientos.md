@@ -1,9 +1,9 @@
 +++
 catalogo = ""
 familias = ["Recubrimientos epóxicos"]
-galeria = ["/v1611944473/WhatsApp_Image_2021-01-29_at_12.15.50_xpadlu.jpg"]
+galeria = ["/v1615920994/WhatsApp_Image_2021-02-12_at_16.07.31_2_gagpsn.png"]
 id = ""
-imagen = "/v1609888352/WhatsApp_Image_2021-01-05_at_17.12.13_wykhwu.jpg"
+imagen = "/v1615920960/Dise%C3%B1o_sin_t%C3%ADtulo_7_hnvid7.png"
 industrias = []
 marcas = ["euclid"]
 meta_description = "Recubrimientos epóxicos"
