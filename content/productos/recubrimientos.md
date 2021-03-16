@@ -1,7 +1,7 @@
 +++
 catalogo = ""
 familias = ["Recubrimientos epóxicos"]
-galeria = ["/v1615920994/WhatsApp_Image_2021-02-12_at_16.07.31_2_gagpsn.png"]
+galeria = ["/v1615921686/WhatsApp_Image_2021-02-12_at_16.07.31_2_-standard-scale-4_00x-gigapixel_jejj13.png"]
 id = ""
 imagen = "/v1615920960/Dise%C3%B1o_sin_t%C3%ADtulo_7_hnvid7.png"
 industrias = []
