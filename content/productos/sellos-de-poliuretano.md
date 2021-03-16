@@ -48,6 +48,6 @@ Sellador de poliuretano semi-auto-nivelante, de bajo módulo, de un solo compone
 * Adecuado para inmersión continua en agua no clorada.
 * Proporciona el sellador con la mayor resistencia a UV y no se desvanece.
 * Proporciona una resistencia excepcional al desgaste por uso que se requiere en áreas de mucho tránsito.
-* Formulado con una innovadora tecnología de polímeros, similar a TREMproof 250GC y Dymonic 100, Vulkem 45SSL es muy versátil y tiene una capacidad única para adherirse a concreto húmedo o fresco.
+* Formulado con una innovadora tecnología de polímeros, similar a TREMproof 250GC y Dymonic 100, Vulkem 45SSL es muy versátil y tiene una capacidad única para adherirse a concreto húmedo o fresco.
 
 ![](https://res.cloudinary.com/drnun7bay/image/upload/v1611337306/WhatsApp_Image_2021-01-22_at_11.41.11_ahgj5i.jpg)
