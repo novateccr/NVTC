@@ -3,13 +3,13 @@ catalogo = ""
 familias = ["Juntas y Selladores"]
 galeria = []
 id = ""
-imagen = "/v1611336829/Dymonic_100-gigapixel-scale-4_00x_a2rjrw_wulmie.png"
+imagen = "/v1615917535/Dise%C3%B1o_sin_t%C3%ADtulo_3_fqfubj.png"
 industrias = []
 marcas = ["tremco"]
 meta_description = "Sellos de poliuretano "
 meta_keywords = "Sellos de poliuretano, dymonic 100"
 taxonomyCover = false
-title = "Sellos de poliuretano "
+title = "Sellos de Poliuretano "
 titulo_adicional = ""
 weight = ""
 
