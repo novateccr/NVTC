@@ -39,3 +39,5 @@ Los usos recomendados incluyen:
 * No se necesita una superficie seca ya que la bentonita del **SUPERSTOP** forma una masa en contacto con el agua que sella cualquier filtración de líquido.
 * Tiene una fácil aplicación.
 * Producto listo para su uso.
+
+![](https://res.cloudinary.com/drnun7bay/image/upload/v1615916057/WhatsApp_Image_2021-03-16_at_11.33.25_uksxxv.jpg)
