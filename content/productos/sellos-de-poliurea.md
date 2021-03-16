@@ -39,4 +39,4 @@ _RELLENO DE JUNTAS DE PISO DE POLIUREA_
 * Pisos industriales y comerciales.
 * Pisos de congelador.
 
-![](https://res.cloudinary.com/drnun7bay/image/upload/v1615917124/WhatsApp_Image_2021-03-16_at_11.48.15_mrprdm.png)
+![](https://res.cloudinary.com/drnun7bay/image/upload/v1615917272/WhatsApp_Image_2021-03-16_at_11.48.15_x4ioey.png)
