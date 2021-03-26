@@ -1,7 +1,7 @@
 ---
 title: Curadores y Selladores
 id: "2"
-imagen: "/v1612221531/Dise%C3%B1o_sin_t%C3%ADtulo_7_up7nb0.png"
+imagen: "/v1616777186/Dise%C3%B1o_sin_t%C3%ADtulo_10_agj5qu.png"
 link: ''
 catalogo: 
 meta_keywords: 
