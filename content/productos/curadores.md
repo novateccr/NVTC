@@ -68,3 +68,31 @@ El producto puede ser utilizado en:
 * Ayuda a minimizar el espolvoreo del concreto.
 
 ![](https://res.cloudinary.com/drnun7bay/image/upload/v1609884541/WhatsApp_Image_2021-01-05_at_16.08.28_nicnnp.jpg)
+
+## [**3- EUCOBAR:**](http://www.eucomex.com.mx/portafolio/productos/miscel%C3%A1neos/retardantes-de-evaporaci%C3%B3n/eucobar/)
+
+Diseñado para ser utilizado como un retardante de evaporación sobre superficies planas de concreto de todo tipo. Cuando se aplica por aspersión sobre concreto fresco, EUCOBAR forma una película delgada y continua que previene la pérdida rápida de humedad de la superficie de concreto. Es fácil de usar y requiere solamente de la adición de agua antes de su aplicación por aspersor.
+
+#### **Usos:**
+
+* Pisos.
+* Pavimentos.
+* Recubrimientos de concreto convencional.
+* Pisos de regado en seco (Dry Shake), incluyendo todas las formulaciones de SURFLEX, EUCOPLATE HD y DIAMOND PLATE.
+* Sobre morteros de reparación base cementicia.
+* Especialidades de recubrimientos de hierro.
+* Plataformas, losas y rampas de estacionamiento.
+* Reparaciones verticales/sobre cabeza.
+
+#### **Ventajas:**
+
+* Mantiene la humedad de superficie en pisos de concreto, losas y pavimentos.
+* Ayuda a prevenir fisuras por contracción plástica.
+* Su uso es fácil y económico.
+* Ayuda a eliminar la formación de costras debido a la pérdida de humedad de superficie.
+* Útil como auxiliar de acabado durante operaciones de llana.
+* A base de agua para una compatibilidad total con el concreto fresco.
+* Excelente para trabajos interiores y exteriores en superficies planas.
+* No afectará la adhesión del compuesto de curado u otros tratamientos para piso.
+
+![](https://res.cloudinary.com/drnun7bay/image/upload/v1616777710/EUCO_vharo1.jpg)
