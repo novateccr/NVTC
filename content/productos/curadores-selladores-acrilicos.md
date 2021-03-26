@@ -18,26 +18,22 @@ weight = ""
 
 ## [**1- Everclear:**](https://www.euclidchemical.com/products/construction-products/curing-sealing-compounds/solvent-based-acrylic/everclear-350/)
 
-Es un compuesto de curado acrílico puro que cura y sella protegiendo y mejorando la apariencia del concreto con una película transparente que no amarillea, que es más duradera que los productos de curado y sellado de mezcla de polímero estándar.
-
-EVERCLEAR 350 está formulado en un vehículo solvente exento formulado para su uso en áreas reguladas por COV.
+**EVERCLEAR** es un **curador** y sellador de concreto acrílico puro que protege y mejora la apariencia del concreto curado con un sello transparente que no amarillea que es más duro y duradero que los productos de curado y sellado estándar. EVERCLEAR está especialmente formulado para realzar el color del concreto estampado, agregado expuesto y adoquines de concreto coloreado, haciendo que estas superficies se vean más profundas y ricas en apariencia. Proporciona protección contra los efectos dañinos del tráfico, el clima y las sales de deshielo mientras permite que el concreto “respire”. EVERCLEAR le da al hormigón un acabado satinado que resalta el color y la textura de las superficies sin excesivo brillo. EVERCLEAR se puede teñir con Euclid Universal Color Packs, que están disponibles en 33 colores estándar.
 
 #### **Características y beneficios:**
 
-* Asegura el curado adecuado del hormigón nuevo.
-* El polímero acrílico puro garantiza que no se amarillee y un sello más transpirable.
+* La fórmula de acrílico puro asegura que no se amarillee y un sello más transpirable.
 * Mejora la apariencia del hormigón coloreado.
-* Más duro y duradero que los curadores y sellos estándar.
-* Secado más lento que los productos a base de acetona o acetato de terc-butilo exentos de solventes.
+* Más duro y más duradero que el curado y los sellos de mezcla de polímeros estándar.
 * Se puede teñir con Euclid Universal Color Packs para igualar superficies de concreto abigarradas.
 
 #### **Aplicaciones:**
 
-* Hormigón estampado y coloreado.
+* Concreto estampado.
 * Terrazo.
 * Calzadas y aceras.
-* Hormigón teñido con ácido.
 * Adoquines de hormigón.
 * Recubrimientos decorativos de hormigón.
+* Hormigón teñido con ácido.
 
   ![](https://res.cloudinary.com/drnun7bay/image/upload/v1609885173/WhatsApp_Image_2021-01-05_at_16.12.35_l22t66.jpg)
