@@ -165,3 +165,5 @@ _ADHESIVO EPOXI DE BAJA VISCOSIDAD, FRAGUADO RÁPIDO Y ALTO MÓDULO._
 * Proporciona un medio de anclaje sin contracción y resistente a la corrosión.
 * Para una amplia variedad de condiciones atmosféricas en las cuales los anclajes de cemento Portland normal muestran fallas repetidamente, el **E3F GROUT** presenta un comportamiento que los supera completamente.
 * Excelente resistencia a compresión, tensión y flexión.
+
+![](https://res.cloudinary.com/drnun7bay/image/upload/v1616784768/WhatsApp_Image_2021-03-26_at_12.44.37-standard-scale-4_00x-gigapixel_pogny4.jpg)
