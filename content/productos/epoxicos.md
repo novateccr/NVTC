@@ -144,3 +144,24 @@ _ADHESIVO EPOXI DE BAJA VISCOSIDAD, FRAGUADO RÁPIDO Y ALTO MÓDULO._
 * Mezclar con arena de sílice seca para crear un mortero de reparación.
 
   ![](https://res.cloudinary.com/drnun7bay/image/upload/v1611335958/WhatsApp_Image_2021-01-22_at_11.04.52_s8h8t7.jpg)
+
+## [**7-E3F GROUT:**](https://www.toxement.com.co/productos/portafolio-productos/grouts-y-anclajes-para-obra-civil-equipos-y-maquinaria/ep%C3%B3xicos/?prodId=1586)
+
+**E3F GROUT** es un grout epóxico de tres componentes, de consistencia fluida, para anclaje de pernos y nivelación de maquinaria.
+
+**E3F GROUT** proporciona alto desempeño con facilidad de colocación.
+
+#### **Usos:**
+
+**E3F GROUT** es recomendado en el anclaje de pernos para la instalación de maquinaria, anclaje de elementos estructurales, nivelación de platinas y en general como mortero nivelante y sin contracciones, donde se requieran excelentes condiciones que no se puedan lograr con morteros de cemento Portland normal.
+
+**E3F GROUT** es utilizado principalmente para anclaje de maquinaria sometida a vibración.
+
+#### **Ventajas:**
+
+* **E3F GROUT** es un producto de baja viscosidad.
+* Se obtienen anclajes de excelentes características y altas resistencias.
+* Los equipos y maquinarias se pueden dar al servicio rápidamente.
+* Proporciona un medio de anclaje sin contracción y resistente a la corrosión.
+* Para una amplia variedad de condiciones atmosféricas en las cuales los anclajes de cemento Portland normal muestran fallas repetidamente, el **E3F GROUT** presenta un comportamiento que los supera completamente.
+* Excelente resistencia a compresión, tensión y flexión.
