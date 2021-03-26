@@ -44,30 +44,24 @@ Las macrofibras sintéticas cumplen con las partes aplicables del International 
 
 ![](https://res.cloudinary.com/drnun7bay/image/upload/v1611341304/WhatsApp_Image_2021-01-22_at_12.48.00_e0e3ew.jpg)
 
-## [**2- Fiberstrand 150 - Microfibra:**](https://www.toxement.com.co/productos/portafolio/aditivos/aditivos-fibras-para-concreto/?prodId=4654)
+## [**2- Fiberstrand M80 - Microfibra:**](https://www.euclidchemical.com/products/concrete-fibers/synthetic-microfibers/psi-fiberstrand-multi-mix-80/)
 
-**FIBERSTRAND 150** es una microfibra sintética monofilamento, de polipropileno, para reforzamiento de concreto. Cumple con la norma ASTM C-1116, especificación estándar para concreto y concreto lanzado, y está especialmente diseñada para ayudar a la mitigación de agrietamiento por contracción plástica en el concreto. Se usa en una dosificación típica de 0.4 kg/m3 – 0.6 kg/m3.
+**PSI FIBERSTRAND MULTI-MIX 80** es una microfibra de polipropileno monofilamento de denier fino para refuerzo de hormigón que cumple con ASTM C 1116, Especificación estándar para hormigón reforzado con fibra y hormigón proyectado, y está específicamente diseñado para ayudar a mitigar la formación de grietas por contracción plástica en el hormigón. Usado típicamente a una tasa de dosificación de 0.5 lb / yd³ (0.3 kg / m³ ), las microfibras PSI FIBERSTRAND Multi-Mix 80 reducirán en gran medida el agrietamiento por contracción plástica en comparación con el concreto simple. Las microfibras PSI FIBERSTRAND Multi-Mix 80 también cumplen con las partes aplicables de los Criterios de aceptación AC32 del Consejo de Códigos Internacionales (ICC) para fibras sintéticas.
 
-La microfibra **FIBERSTRAND 150** ha demostrado que reduce en gran medida el agrietamiento por contracción plástica comparado con un concreto convencional.
+#### **Características y beneficios:**
 
-**FIBERSTRAND 150** también cumple con diferentes partes aplicables del International Code Council (ICC) en cuanto a los criterios de aceptación para fibras sintéticas.
+* Controla y mitiga el agrietamiento por contracción plástica
+* Reduce la segregación y el sangrado
+* Proporciona un refuerzo tridimensional contra las microfisuras.
+* Aumenta la durabilidad de la superficie, la resistencia al impacto y a la abrasión.
+* Reducción del costo en el lugar en comparación con la malla de alambre para el control de grietas por contracción / temperatura no estructural
+* Se agrega fácilmente a la mezcla de concreto en cualquier momento antes de la colocación.
 
-#### **Usos:**
+#### **Aplicaciones:**
 
-**FIBERSTRAND 150** es recomendado en:
-
-* Placas de contrapiso, andenes, vías, bordillos, sobre placas y placas de nivelación.
-* Zapatas, cimientos, paredes y aplicaciones en tanques.
-* Aplicaciones de estuco, concreto prefabricado y vigas pretensadas.
-* Concreto lanzado, sistemas de construcción reforzado y concreto “Steel Deck”.
-
-#### **Ventajas:**
-
-* Control y mitigación de la fisuración por contracción plástica.
-* Reduce la segregación, el asentamiento plástico y la exudación del concreto.
-* Provee refuerzo tridimensional contra el micro agrietamiento.
-* Incrementa la durabilidad de la superficie, la resistencia al impacto y la resistencia a la abrasión.
-* Reduce el costo si se compara contra el uso de malla metálica no estructural para el control de fisuras por temperatura / contracción.
-* Fácil adición a la mezcla de concreto en cualquier momento de la colocación.
+* Trabajos de explanación para proyectos de hormigón industriales, comerciales y residenciales.
+* Aplicaciones de zapatas, cimientos, paredes y tanques
+* Estuco, tubería de hormigón, estructuras de bóvedas y vigas prefabricadas / pretensadas.
+* Hormigón proyectado.
 
 ![](https://res.cloudinary.com/drnun7bay/image/upload/v1611341864/WhatsApp_Image_2021-01-22_at_12.57.22_pwyhsa.jpg)
