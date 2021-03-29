@@ -49,3 +49,23 @@ Otras aplicaciones incluyen construcciones no expuestas a la intemperie, en una 
 * No permite formación de capilaridad horizontal;
 
 ![](https://res.cloudinary.com/drnun7bay/image/upload/v1617040582/WhatsApp_Image_2021-03-29_at_11.55.37_btgiv5.jpg)
+
+## **3-Vulkem OC 810**
+
+Membrana de uretano alifático, alta en sólidos, diseñada para aplicarse en una capa como un sistema de impermeabilización. Se requiere un espesor mínimo de 25 mils. Vulkem OC810 debe utilizarse con Tremco Rubber Aggregate 12-20 mesh.
+
+#### **Usos:**
+
+* Es ideal para áreas de tránsito peatonal ligero, tales como balcones, terrazas en azoteas y cuartos de maquinaria.
+* También puede utilizarse como impermeabilizante para aplicaciones de cejillas de ventanas.
+
+#### **Ventajas:**
+
+* La aplicación de una capa reduce el tiempo de instalación y ahorra mano de obra.
+* El curado rápido permite utilizarlo al día siguiente.
+* El bajo nivel de olor y de Compuestos Orgánicos Volátiles (VOC) permite utilizarlo en estructuras no habitadas, amigables con el entorno.
+* La resistencia a moho y hongos salvaguarda las superficies de concreto contra contaminantes ambientales.
+* La excelente durabilidad y resistencia a UV extiende la vida útil de los sistemas peatonales.
+* Puede recubrirse y es compatible con otros selladores Tremco, lo que mejora la protección impermeabilizante con compatibilidad total con el sistema.
+
+![](https://res.cloudinary.com/drnun7bay/image/upload/v1617041504/WhatsApp_Image_2021-03-29_at_12.10.44_g8etz6.jpg)
