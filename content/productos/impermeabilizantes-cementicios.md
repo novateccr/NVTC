@@ -52,11 +52,11 @@ Este producto también puede usarse como capa regularizante antes de aplicar pro
 #### **Ventajas:**
 
 * Resistente a altas presiones hidrostáticas positivas;
-* No altera la potabilidad del agua, siendo no tóxico e inodoro;
+* No altera la potabilidad del agua, siendo no tóxico e inodoro.
 * Producto de fácil aplicación, con escoba o cepillo;
-* Se puede aplicar sobre superficies de concreto, ladrillo (previamente con pañete o revoque), mortero libre de cal y sin aditivo impermeabilizante;
-* Excelente adherencia sin necesidad de usar lechada o Primer;
-* Puede ser reforzado con tela de poliéster;
+* Se puede aplicar sobre superficies de concreto, ladrillo (previamente con pañete o revoque), mortero libre de cal y sin aditivo impermeabilizante.
+* Excelente adherencia sin necesidad de usar lechada o Primer.
+* Puede ser reforzado con tela de poliéster.
 
   
 ![](https://res.cloudinary.com/drnun7bay/image/upload/v1608591236/2020-12-21_1_rscjyh.png)
