@@ -1,6 +1,6 @@
 +++
 catalogo = ""
-familias = ["Juntas y Selladores"]
+familias = ["Impermeabilizantes  "]
 galeria = []
 id = ""
 imagen = "/v1615916031/Dise%C3%B1o_sin_t%C3%ADtulo_1_rtiock.png"
@@ -9,12 +9,14 @@ marcas = ["tremco"]
 meta_description = "Sellos de Bentonita "
 meta_keywords = "Sellos de Bentonita, superstop "
 taxonomyCover = false
-title = "Sellos de Bentonita "
+title = "Juntas frías"
 titulo_adicional = ""
 weight = ""
 
 +++
-## Novatec Construcción ofrece el siguiente producto para sellos de Bentonita:
+## Novatec Construcción ofrece el siguiente producto para Juntas Frías:
+
+## **Sello de Bentonita:**
 
 ## [**1- Superstop:**](https://www.toxement.com.co/productos/portafolio/juntas-y-sellantes/sellos-de-bentonita/?prodId=1667)
 
