@@ -35,6 +35,8 @@ Recubrimiento cementicio para trabajo pesado cuya finalidad es impermeabilizar y
 * Fácil de mezclar y aplicar.
 * Sus colores decorativos combinan la apariencia con protección de larga duración.
 
+![](https://res.cloudinary.com/drnun7bay/image/upload/v1617044496/1_hro9nf.jpg)
+
 ## [**3- Eucoplus 1000:**](http://www.toxement.com.co/productos/portafolio/tratamientos-para-muros/impermeabilizaci%C3%B3n-de-superficies/?prodId=1318)
 
 Es un impermeabilizante cementicio, semi-flexible, bicomponente (A+B), a base de cementos especiales, aditivos minerales y polímeros de excelentes características impermeabilizantes.
