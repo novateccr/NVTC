@@ -60,3 +60,35 @@ Este producto también puede usarse como capa regularizante antes de aplicar pro
 
   
 ![](https://res.cloudinary.com/drnun7bay/image/upload/v1608591236/2020-12-21_1_rscjyh.png)
+
+## [**3- Eucocrete 100:**](https://www.toxement.com.co/productos/portafolio-productos/reparaci%C3%B3n-de-placas-y-pavimentos-de-concreto/morteros-de-reparaci%C3%B3n-cementicios/?prodId=1674)
+
+**EUCOCRETE 100** es un mortero versátil, de un componente, modificado con microsílica para re parcheo y reparación en todo tipo de proyectos.
+
+**EUCOCRETE 100** requiere solamente adición de agua, es de fácil colocación y buen tiempo de manejabilidad, se obtienen altas resistencias.
+
+**EUCOCRETE 100** tiene apariencia similar al concreto y se utiliza como mortero para coronamiento, re parcheo y reparación en superficies horizontales.
+
+#### **Usos:**
+
+**EUCOCRETE 100** es recomendado en:
+
+* Cubiertas de parqueaderos.
+* Balcones.
+* Coronamiento de pisos.
+* Reparación de juntas.
+* Bases de equipos.
+* Pedestales.
+* Pavimentos.
+
+#### **Ventajas:**
+
+* Modificado con microsílice Resistencias párrafo Altas.
+* Listo para USAR.
+* Baja permeabilidad.
+* Largo Tiempo de trabajabilidad.
+* Utilizable para Aplicaciones de 25 mm - 150 mm.
+* Utilizable para Aplicaciones en Interiores y Exteriores.
+* Utilizable para Aplicaciones en FORMALETA o por nivelación.
+
+![](https://res.cloudinary.com/drnun7bay/image/upload/v1617053488/WhatsApp_Image_2021-03-29_at_15.30.38_pwx5k5.jpg)
