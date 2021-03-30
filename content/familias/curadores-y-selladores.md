@@ -11,5 +11,6 @@ menu:
   principal:
     parent: Productos
     weight: 3
+draft: true
 
 ---
