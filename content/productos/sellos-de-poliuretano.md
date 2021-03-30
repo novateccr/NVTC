@@ -18,7 +18,7 @@ weight = ""
 
 ## [**1- Dymonic 100:**](http://www.eucomex.com.mx/portafolio/productos/selladores-rellenos/poliuretano/dymonic-100/)
 
-Sellador de poliuretano non-sag de alto desempeño, módulo medio, bajos VOC y estable a UV. Formulado con una innovadora tecnología de polímeros similar al TREMproof 250GC y VULKEM® 45SSL. DYMONIC 100 es un sellador altamente versátil que tiene la capacidad única de adherir a concreto húmedo o “verde”.
+Sellador de poliuretano non-sag de alto desempeño, módulo medio, bajos VOC y estable a UV. Formulado con una innovadora tecnología de polímeros similar al TREMproof 250GC y VULKEM® 45SSL. DYMONIC 100 es un sellador altamente versátil que tiene la capacidad única de adherir a concreto húmedo o “verde”...
 
 #### **Usos:**
 
