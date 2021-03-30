@@ -9,7 +9,7 @@ marcas = ["euclid"]
 meta_description = "Juntas epóxicas"
 meta_keywords = "Juntas epóxicas, euco 700"
 taxonomyCover = false
-title = "Juntas epóxicas"
+title = "Relleno de Juntas epóxicas"
 titulo_adicional = ""
 weight = ""
 
