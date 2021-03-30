@@ -1,6 +1,6 @@
 +++
 catalogo = ""
-familias = ["Pisos Industriales y Comerciales"]
+familias = ["Pisos industriales y comerciales"]
 galeria = []
 id = ""
 imagen = "/v1615921740/Dise%C3%B1o_sin_t%C3%ADtulo_8_mvmvso.png"
