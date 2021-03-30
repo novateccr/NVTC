@@ -1,7 +1,7 @@
 ---
-title: Recubrimientos epóxicos
+title: Protección contra el fuego
 id: "8"
-imagen: "/v1612280729/Dise%C3%B1o_sin_t%C3%ADtulo_14_arm5vo.png"
+imagen: ''
 link: ''
 catalogo: 
 meta_keywords: 
@@ -11,6 +11,5 @@ menu:
   principal:
     parent: Productos
     weight: 10
-draft: true
 
 ---
