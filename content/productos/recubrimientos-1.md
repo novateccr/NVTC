@@ -1,6 +1,5 @@
 +++
 catalogo = ""
-draft = true
 familias = ["Protección contra el fuego"]
 galeria = []
 id = ""
