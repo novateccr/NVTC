@@ -1,6 +1,6 @@
 +++
 catalogo = ""
-familias = ["Tratamiento para muros"]
+familias = ["Tratamientos para muro"]
 galeria = []
 id = ""
 imagen = "/v1619558519/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_-_2021-04-27T152150.250_bqckf9.png"
