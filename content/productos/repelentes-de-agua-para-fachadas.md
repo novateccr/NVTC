@@ -37,7 +37,7 @@ La aplicación de una sola capa evita la formación de manchas debidas a la acum
 * Minimiza la eflorescencia;
 * Mantiene limpia la fachada;
 
-  ![](https://res.cloudinary.com/drnun7bay/image/upload/v1619559799/WhatsApp_Image_2021-04-27_at_15.41.32_uehr9h.png)
+  ![](https://res.cloudinary.com/drnun7bay/image/upload/v1619560650/WhatsApp_Image_2021-04-27_at_15.41.32_xjtoh1.png)
 
 ## **2- Limestone Plus:**
 
