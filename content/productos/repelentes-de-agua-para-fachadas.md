@@ -38,3 +38,29 @@ La aplicación de una sola capa evita la formación de manchas debidas a la acum
 * Mantiene limpia la fachada;
 
   ![](https://res.cloudinary.com/drnun7bay/image/upload/v1619559799/WhatsApp_Image_2021-04-27_at_15.41.32_uehr9h.png)
+
+## **2- Limestone Plus:**
+
+**LIMESTONE PLUS** es un líquido acoloro que se emplea como hidrófugo para repeler el agua lluvia y todo tipo de humedades, en fachadas y superficies exteriores que posean un alto grado de alcalinidad. También protege del ambiente corrosivo y lluvia ácida las fachadas y estructuras en concreto armado.
+
+#### **Usos:**
+
+**LIMESTONE PLUS** es recomendado como repelente de agua para fachadas altamente alcalinas (pH altos) en ladrillo, concreto, piedra, cal o carburo.
+
+Su acción previene la formación de hongos sobre la superficie de la fachada.
+
+#### **Ventajas:**
+
+* Gran durabilidad;
+* Repele el agua lluvia en fachadas;
+* No es afectado por las altas alcalinidades de los substratos evitando la consecuente formación de manchas;
+* Reduce la capacidad de absorción de agua;
+* Posee una alta permeabilidad al vapor de agua;
+* Evita el resquebrajamiento y la pérdida de aislamiento térmico del material de construcción;
+* Previene contra el ataque químico, debido a la lluvia ácida y ambientes corrosivos;
+* Deja transpirar la fachada;
+* No le cambia el aspecto al material de construcción;
+* Ayuda a mantener limpia la fachada;
+* Su acción protectora dura de 7 a 10 años;
+
+![](https://res.cloudinary.com/drnun7bay/image/upload/v1619560352/WhatsApp_Image_2021-04-27_at_15.51.54_qb7xgw.jpg)
