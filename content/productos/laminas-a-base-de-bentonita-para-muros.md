@@ -30,3 +30,5 @@ La bentonita está unida a la hoja de polietileno de alta densidad, y es capaz d
 * Aplicable tanto en horizontal como en vertical.
 * Presenta excelente comportamiento bajo condiciones de alta presión de agua.
 * La aplicación es fácil, rápida y no se requieren equipos especializados.
+
+![](https://res.cloudinary.com/drnun7bay/image/upload/v1619559001/WhatsApp_Image_2021-04-27_at_15.18.43_qiidj5.png)
