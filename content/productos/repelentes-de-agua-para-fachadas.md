@@ -63,4 +63,4 @@ Su acción previene la formación de hongos sobre la superficie de la fachada.
 * Ayuda a mantener limpia la fachada;
 * Su acción protectora dura de 7 a 10 años;
 
-![](https://res.cloudinary.com/drnun7bay/image/upload/v1619560822/WhatsApp_Image_2021-04-27_at_15.51.54_ohoemu.png)
+![](https://res.cloudinary.com/drnun7bay/image/upload/v1619561032/limestone-plus-toxement_2_ufslbk.jpg)
