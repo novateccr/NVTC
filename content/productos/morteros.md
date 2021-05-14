@@ -16,7 +16,7 @@ weight = ""
 +++
 ## Novatec Construcción ofrece los siguientes morteros:
 
-## **1- Euco Fast:** 
+## **1- EucoFast:**
 
 _Mortero de fragüe acelerado para parcheo y reparación_
 
@@ -24,62 +24,62 @@ EUCOFAST es un mortero de fraguado y endurecimiento rápido, diseñado para hace
 
 #### **Usos:**
 
-Las características de mortero de alto desempeño hacen el EUCOFAST utilizable en los siguientes casos: 
+Las características de mortero de alto desempeño hacen el EUCOFAST utilizable en los siguientes casos:
 
-*  Reparaciones de concreto en pavimentos de concreto, puentes, túneles, pistas de aeropuertos con interrupción de flujo por pocas horas. 
-* Reparaciones rápidas en pisos industriales para colocarlos en servicio después de cuatro horas. 
-* Trabajos urgentes de fijación de maquinaria, con bajo costo por paradas de producción. 
-* Reparación de concreto en áreas industriales sujetas a ácidos (pH mayor a 3.5). 
+* Reparaciones de concreto en pavimentos de concreto, puentes, túneles, pistas de aeropuertos con interrupción de flujo por pocas horas.
+* Reparaciones rápidas en pisos industriales para colocarlos en servicio después de cuatro horas.
+* Trabajos urgentes de fijación de maquinaria, con bajo costo por paradas de producción.
+* Reparación de concreto en áreas industriales sujetas a ácidos (pH mayor a 3.5).
 
 #### **Ventajas:**
 
-* Alcanza resistencias superiores a 2.347 psi (165 kg/cm2 ) a partir de 4 horas. 
-* Altas resistencias mecánicas. 
-* Elevada resistencia a agentes agresivos mecánicos. 
-* Aplicable a baja temperatura. 
-* Fácil de aplicar. 
-* Resistente a ácidos (pH mayor a 3.5) 
+* Alcanza resistencias superiores a 2.347 psi (165 kg/cm2 ) a partir de 4 horas.
+* Altas resistencias mecánicas.
+* Elevada resistencia a agentes agresivos mecánicos.
+* Aplicable a baja temperatura.
+* Fácil de aplicar.
+* Resistente a ácidos (pH mayor a 3.5)
 * Permite aplicaciones posteriores de materiales epóxicos después de 24 horas o 2.5% de humedad.
 
 ![](https://res.cloudinary.com/drnun7bay/image/upload/v1611339323/WhatsApp_Image_2021-01-22_at_12.14.47_l9euch.jpg)
 
-## **2- Eucocrete 100:** 
+## **2- Eucocrete 100:**
 
 _Material de reparación de alto desempeño_
 
 EUCOCRETE 100 es un mortero versátil, de un componente, modificado con microsílica para reparcheo y reparación en todo tipo de proyectos. EUCOCRETE 100 requiere solamente adición de agua, es de fácil colocación y buen tiempo de manejabilidad, se obtienen altas resistencias. EUCOCRETE 100 tiene apariencia similar al concreto y se utiliza como mortero para coronamiento, reparcheo y reparación en superficies horizontales.
 
-#### **Usos:** 
+#### **Usos:**
 
-EUCOCRETE 100 es recomendado en: 
+EUCOCRETE 100 es recomendado en:
 
-\- Cubiertas de parqueaderos 
+\- Cubiertas de parqueaderos
 
-\- Balcones 
+\- Balcones
 
-\- Coronamiento de pisos 
+\- Coronamiento de pisos
 
-\- Reparación de juntas 
+\- Reparación de juntas
 
-\- Bases de equipos 
+\- Bases de equipos
 
-\- Pedestales 
+\- Pedestales
 
-\- Pavimentos 
+\- Pavimentos
 
 #### **Ventajas:**
 
-\- Modificado con microsílica para altas resistencias. 
+\- Modificado con microsílica para altas resistencias.
 
-\- Listo para usar 
+\- Listo para usar
 
-\- Baja permeabilidad 
+\- Baja permeabilidad
 
-\- Largo tiempo de trabajabilidad 
+\- Largo tiempo de trabajabilidad
 
-\- Utilizable para aplicaciones de 25 mm - 150 mm 
+\- Utilizable para aplicaciones de 25 mm - 150 mm
 
-\- Utilizable para aplicaciones en interiores y exteriores. 
+\- Utilizable para aplicaciones en interiores y exteriores.
 
 \- Utilizable para aplicaciones en formaleta o por nivelación.
 
