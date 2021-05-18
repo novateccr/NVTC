@@ -18,7 +18,7 @@ weight = ""
 
 ## [**1- Duralkote 240:**](http://www.eucomex.com.mx/portafolio/productos/recubrimientos/industriales/duralkote-240/)
 
-Es un sistema epóxico, 100% sólidos de dos componentes, diseñado como recubrimiento de paredes y pisos. DURALKOTE 240 es flexible, sin embargo ofrece una excelente resistencia química a la abrasión y ofrece excelente adhesión a superficies correctamente preparadas. DURALKOTE 240 produce una superficie brillante tipo azulejo y es de fácil mantenimiento.......
+Es un sistema epóxico, 100% sólidos de dos componentes, diseñado como recubrimiento de paredes y pisos. DURALKOTE 240 es flexible, sin embargo ofrece una excelente resistencia química a la abrasión y ofrece excelente adhesión a superficies correctamente preparadas. DURALKOTE 240 produce una superficie brillante tipo azulejo y es de fácil mantenimiento.
 
 #### **Usos:**
 
