@@ -1,14 +1,13 @@
 +++
 catalogo = ""
-draft = true
 familias = ["Protección contra el fuego"]
 galeria = []
 id = ""
-imagen = ""
+imagen = "/v1621359116/Dise%C3%B1o_sin_t%C3%ADtulo_19_skixye.png"
 industrias = []
 marcas = ["tremco"]
-meta_description = ""
-meta_keywords = ""
+meta_description = "Selladores"
+meta_keywords = "Selladores, Tremstop"
 taxonomyCover = false
 title = "Selladores"
 titulo_adicional = ""
