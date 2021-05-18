@@ -1,5 +1,5 @@
 ---
-title: Desmoldantes
+title: Tratamientos de superficie
 id: "9"
 imagen: ''
 link: ''
@@ -11,6 +11,5 @@ menu:
   principal:
     parent: Productos
     weight: 8
-draft: true
 
 ---
