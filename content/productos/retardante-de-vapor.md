@@ -1,10 +1,9 @@
 +++
 catalogo = "Barreras de Vapor"
-draft = true
 familias = ["Barreras de Vapor"]
 galeria = []
 id = ""
-imagen = ""
+imagen = "/v1621366259/Dise%C3%B1o_sin_t%C3%ADtulo_29_mzuxhy.png"
 industrias = []
 marcas = ["Stego"]
 meta_description = "Barreras de Vapor"
