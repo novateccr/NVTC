@@ -16,7 +16,7 @@ weight = ""
 +++
 ## Novatec Construcción ofrece los siguientes productos:
 
-## [**1- Stego-Tape:**](https://www.stegoindustries.com/products/stego-tape) 
+## [**1- Stego-Tape:**](https://www.stegoindustries.com/products/stego-tape)
 
 **Baja permeabilidad, gran adherencia a largo plazo**
 
@@ -33,7 +33,7 @@ Stego Tape es una cinta de baja permeabilidad diseñada para aplicaciones protec
 
 ![](https://res.cloudinary.com/drnun7bay/image/upload/v1621378325/stego_tape_ri4ris_hhun7x.png)
 
-## [**2- STEGO® CRETE CLAW® CINTA 3 ":**]()
+## [**2- STEGO® CRETE CLAW® CINTA 3 ":**](https://www.stegoindustries.com/products/stego-crete-claw-3)
 
 **Selle mecánicamente la membrana a la losa de hormigón fundido**
 
