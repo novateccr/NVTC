@@ -40,5 +40,4 @@ fields:
     label: Principal
   label: Menu
 pages:
-- content/familias/barreras-de-vapor.md
 - content/familias/proteccion-contra-el-fuego.md
