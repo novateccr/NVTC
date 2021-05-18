@@ -32,4 +32,4 @@ Respaldado por un proyecto incomparable y un apoyo educativo, Stego 15-Mil Vapor
 * Excede ASTM E1745 Clase A, B y C.
 * Fabricado en los Estados Unidos.
 
-![](https://res.cloudinary.com/drnun7bay/image/upload/v1621377005/WhatsApp_Image_2021-05-18_at_16.28.30_onbgra.jpg)
+![](https://res.cloudinary.com/drnun7bay/image/upload/v1621377671/WhatsApp_Image_2021-05-18_at_16.33.19_tbghlv.jpg)
