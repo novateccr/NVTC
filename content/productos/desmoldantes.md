@@ -41,27 +41,3 @@ weight = ""
 * No mancha el concreto.
 
 ![](https://res.cloudinary.com/drnun7bay/image/upload/v1621361754/WhatsApp_Image_2021-05-18_at_12.14.31_pjr8bc.jpg)
-
-## [**2- Eucobar:**](https://www.toxement.com.co/productos/portafolio-productos/compuestos-curadores-y-selladores/retardante-de-evaporaci%C3%B3n/?prodId=1405)
-
-**EUCOBAR** es un producto diseñado para ser usado como retardante de evaporación en todo tipo de superficies de concreto. El material forma una película continua, delgada, la cual previene la pérdida de humedad de la superficie. Especialmente usado en operaciones en donde hay sol directo, altas temperaturas, viento y baja humedad relativa.
-
-#### **Usos:**
-
-**EUCOBAR** se coloca donde se presenten problemas de retracción plástica por rápida evaporación.
-
-* En pisos, pavimentos, parqueaderos, rampas, pisos endurecidos con ROCKTOP o EXELTOP de TOXEMENT, etc.
-* Para evitar agrietamiento por contracción plástica en condiciones climáticas donde la rata de evaporación del agua exceda 1 kg/m2/hr. Consulte la gráfica 2.1.5 del ACI 305.
-
-#### **Ventajas:**
-
-* Mantiene la humedad en las superficies de concreto;
-* Previene el fisuramiento por contracción plástica ocasionada por pérdida excesiva de humedad;
-* Fácil de usar;
-* Ayuda a eliminar costras causadas por pérdida de humedad de la superficie;
-* Por ser base acuosa es totalmente compatible con el concreto;
-* Puede ser usado en interiores y exteriores;
-* No afecta la adherencia de curadores o de otros tratamientos de pisos;
-* Ayuda a obtener mejores acabados de forma económica;
-
-![](https://res.cloudinary.com/drnun7bay/image/upload/v1621361797/WhatsApp_Image_2021-05-18_at_12.14.55_kzmt1a.jpg)
