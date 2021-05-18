@@ -70,6 +70,7 @@ fields:
   label: Titulo adicional
 pages:
 - content/productos/_index.md
+- content/productos/barrera-de-vapor.md
 - content/productos/cementicios.md
 - content/productos/curadores-selladores-acrilicos.md
 - content/productos/curadores.md
