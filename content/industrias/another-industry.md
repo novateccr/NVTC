@@ -1,5 +1,6 @@
 +++
 catalogo = ""
+draft = true
 id = "1"
 imagen = "/v1603219620/samples/landscapes/beach-boat.jpg"
 link = ""

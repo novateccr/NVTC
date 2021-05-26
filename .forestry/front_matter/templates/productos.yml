@@ -70,9 +70,11 @@ fields:
   label: Titulo adicional
 pages:
 - content/productos/_index.md
+- content/productos/barrera-de-vapor.md
 - content/productos/cementicios.md
 - content/productos/curadores-selladores-acrilicos.md
 - content/productos/curadores.md
+- content/productos/desmoldantes.md
 - content/productos/endurecedores-liquidos.md
 - content/productos/endurecedores.md
 - content/productos/epoxicos.md
@@ -92,10 +94,12 @@ pages:
 - content/productos/recubrimientos.md
 - content/productos/repelentes-de-agua-para-fachadas.md
 - content/productos/retardante-de-evaporacion.md
+- content/productos/retardante-de-vapor.md
 - content/productos/selladores.md
 - content/productos/sellos-de-bentonita.md
 - content/productos/sellos-de-poliurea.md
 - content/productos/sellos-de-poliuretano.md
+- content/productos/tapes.md
 - content/productos/titulo-de-producto-goes-her.md
 - content/productos/vandex-super.md
 - content/productos/vulkem-801.md
