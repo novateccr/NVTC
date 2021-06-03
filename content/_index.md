@@ -17,6 +17,11 @@ slides:
   image: "/v1622730672/Imagen_2_jnnvpm.jpg"
   published: true
   link: ''
+- title: Novatec - Euclid Group
+  description: Consúltenos!
+  image: "/v1622730844/Imagen_3_t2bkw0.jpg"
+  published: false
+  link: ''
 - image: "/v1622730758/Imagen_4_g9rjbv.jpg"
   published: false
   link: ''
