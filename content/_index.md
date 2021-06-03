@@ -2,9 +2,9 @@
 title: Inicio
 description: Especialistas en soluciones para el manejo y sellado de fluidos
 slides:
-- title: Consulte con uno de nuestros asesores...
-  description: Estamos para servirle
-  image: "/v1622730556/Imagne_1_qqzd8m.jpg"
+- title: En servicio para la Construcción!
+  description: Morteros - Fibras - Juntas - Sellos - Pisos
+  image: "/v1622730672/Imagen_2_jnnvpm.jpg"
   published: true
   link: ''
 - title: Fibra Tuffstrand
@@ -12,21 +12,21 @@ slides:
   image: "/v1603234768/Fibra_Tuffstrand_f_v2akdq.jpg"
   published: true
   link: ''
-- title: En servicio para la Construcción!
-  description: Morteros - Fibras - Juntas - Sellos - Pisos
-  image: "/v1622730672/Imagen_2_jnnvpm.jpg"
-  published: true
-  link: ''
-- title: Novatec - Euclid Group
-  description: Consúltenos!
-  image: "/v1622730844/Imagen_3_t2bkw0.jpg"
-  published: false
-  link: ''
 - image: "/v1622730758/Imagen_4_g9rjbv.jpg"
   published: false
   link: ''
   title: Confíe en la excelencia...
   description: Estamos para servirle
+- title: Novatec - Euclid Group
+  description: Consúltenos!
+  image: "/v1622730844/Imagen_3_t2bkw0.jpg"
+  published: false
+  link: ''
+- title: Consulte con uno de nuestros asesores...
+  description: Estamos para servirle
+  image: "/v1622730556/Imagne_1_qqzd8m.jpg"
+  published: true
+  link: ''
 barra_azul:
   titular: Debido a la emergencia nacional por el COVID-19, estaremos con acceso controlado
     a nuestras oficinas, para mayor facilidad nos puede contactar por correo, Whatsapp
