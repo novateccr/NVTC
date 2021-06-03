@@ -2,9 +2,9 @@
 title: Inicio
 description: Especialistas en soluciones para el manejo y sellado de fluidos
 slides:
-- title: Eucofast
-  description: Mortero de fraguado
-  image: "/v1603226887/product_for_delivery_z51lyc.jpg"
+- title: Consulte con uno de nuestros asesores...
+  description: Estamos para servirle
+  image: "/v1622730556/Imagne_1_qqzd8m.jpg"
   published: true
   link: ''
 - title: Fibra Tuffstrand
