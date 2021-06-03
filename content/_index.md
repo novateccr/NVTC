@@ -17,6 +17,11 @@ slides:
   image: "/v1622730672/Imagen_2_jnnvpm.jpg"
   published: true
   link: ''
+- image: "/v1622730758/Imagen_4_g9rjbv.jpg"
+  published: false
+  link: ''
+  title: Confíe en la excelencia...
+  description: Estamos para servirle
 barra_azul:
   titular: Debido a la emergencia nacional por el COVID-19, estaremos con acceso controlado
     a nuestras oficinas, para mayor facilidad nos puede contactar por correo, Whatsapp
