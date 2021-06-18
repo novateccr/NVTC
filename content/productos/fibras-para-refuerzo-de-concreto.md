@@ -16,7 +16,7 @@ weight = ""
 +++
 ## Novatec Construcción ofrece las siguientes fibras para refuerzo de concreto:
 
-## **1- Tuf Strand SF, Fibra sintética:**
+## [**1- Tuf Strand SF, Fibra sintética:**](https://www.euclidchemical.com/products/concrete-fibers/synthetic-macrofibers/tuf-strand-sf/)
 
 TUF - STRAND SF son fibras sintéticas estructurales mezcla de polipropileno / polietileno, monofilamento, las cuales se auto fibrilan cuando se incorporan en la mezcla de concreto, utilizadas exitosamente para reemplazar la malla electrosoldada y las fibras metálicas en una amplia variedad de aplicaciones.
 
