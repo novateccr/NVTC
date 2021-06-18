@@ -9,7 +9,7 @@ marcas = ["Toxement"]
 meta_description = "Fibras de carbono para reparación estructural"
 meta_keywords = "Fibras de carbono para reparación estructural, "
 taxonomyCover = false
-title = "Fibras de carbono para reparación estructural"
+title = "Fibras de carbono para refuerzo estructural"
 titulo_adicional = ""
 weight = ""
 
