@@ -16,7 +16,7 @@ weight = ""
 +++
 ## Novatec Construcción ofrece los siguientes morteros:
 
-## **1- EucoFast:**
+## [**1- EucoFast:**](https://www.toxement.com.co/productos/portafolio-productos/reparaci%C3%B3n-de-placas-y-pavimentos-de-concreto/morteros-de-reparaci%C3%B3n-cementicios/?prodId=1678)
 
 _Mortero de fragüe acelerado para parcheo y reparación_
 
