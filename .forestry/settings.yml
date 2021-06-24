@@ -15,7 +15,7 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/Servicios
+  path: content/industrias
   label: Servicios
   create: all
   match: "**/*"
