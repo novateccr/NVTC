@@ -4,6 +4,6 @@ info = ""
 title = "Barreras de Vapor"
 [menu.principal]
 parent = "Productos"
-weight = "5"
+weight = 6
 
 +++
