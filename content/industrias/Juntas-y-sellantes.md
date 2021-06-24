@@ -10,7 +10,7 @@ weight: "1"
 menu:
   principal:
     parent: Servicios
-    weight: 4
+    weight: "4"
 draft: true
 
 ---
