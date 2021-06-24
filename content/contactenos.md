@@ -2,7 +2,7 @@
 meta_description = ["Contactenos Aquí"]
 title = "Contáctenos"
 [menu.principal]
-weight = 6
+weight = 7
 
 +++
 <div class="container-container">
