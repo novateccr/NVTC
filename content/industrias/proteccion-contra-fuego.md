@@ -11,6 +11,5 @@ menu:
   principal:
     parent: Servicios
     weight: 2
-draft: true
 
 ---

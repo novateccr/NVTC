@@ -4,6 +4,6 @@ info = ""
 title = "Protección contra el fuego"
 [menu.principal]
 parent = "Productos"
-weight = 5
+weight = 7
 
 +++
