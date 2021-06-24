@@ -4,10 +4,5 @@ languageCode = "es-cr"
 title = "Novatec Construcción"
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.42.2"
-[[menu.principal]]
-name = "Servicios"
-parent = ""
-url = "https://www.nvtconstruccion.com/industrias/"
-weight = 3
 [params]
 cloudinary_url = "https://res.cloudinary.com/drnun7bay/image/upload/"
