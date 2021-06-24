@@ -3,7 +3,7 @@ title: Marcas
 weight: "900"
 menu:
   principal:
-    weight: 4
+    weight: 3
 
 ---
 Todas las Marcas

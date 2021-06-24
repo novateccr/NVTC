@@ -7,9 +7,5 @@ catalogo: ''
 meta_keywords: ''
 meta_description: ''
 weight: "1"
-menu:
-  principal:
-    parent: Servicios
-    weight: "2"
 
 ---
