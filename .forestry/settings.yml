@@ -19,6 +19,8 @@ sections:
   label: Servicios
   create: all
   match: "**/*"
+  templates:
+  - industria
 - type: directory
   path: content/marcas
   label: Marcas
