@@ -62,3 +62,5 @@ fields:
       label: Weight
     label: Principal
   label: Menu
+pages:
+- content/industrias/servico-de-prueba1.md
