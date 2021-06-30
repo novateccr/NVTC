@@ -1,6 +1,5 @@
 +++
 catalogo = ""
-draft = true
 id = ""
 imagen = "/v1622730672/Imagen_2_jnnvpm.jpg"
 link = ""
