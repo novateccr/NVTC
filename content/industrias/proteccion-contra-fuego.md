@@ -1,11 +1,12 @@
----
-title: Protección contra fuego
-id: "5"
-imagen: ''
-link: ''
-catalogo: Servicios
-meta_keywords: ''
-meta_description: ''
-weight: "1"
++++
+catalogo = ""
+id = ""
+link = "https://www.stegoindustries.com/"
+logo = "/v1603230058/stego-logo_vso6ce.webp"
+title = "Protección contra fuego"
+weight = ""
+[menu.principal]
+parent = "Servicios"
+weight = 3
 
----
++++
