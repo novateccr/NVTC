@@ -15,15 +15,15 @@ slides:
 - image: "/v1622730758/Imagen_4_g9rjbv.jpg"
   published: false
   link: ''
-  title: Confíe en la excelencia!
-  description: Estamos para servirle
+  title: "¡Confíe en la excelencia!"
+  description: Estamos para servirle.
 - title: Novatec Construcción.
-  description: Consúltenos!
+  description: "¡Consúltenos!"
   image: "/v1622730844/Imagen_3_t2bkw0.jpg"
   published: false
   link: ''
 - title: Consulte con uno de nuestros asesores.
-  description: Estamos para servirle!
+  description: "¡Estamos para servirle!"
   image: "/v1622730556/Imagne_1_qqzd8m.jpg"
   published: true
   link: ''
