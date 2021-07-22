@@ -39,7 +39,7 @@ barra_fondo_imagen:
     nuestros empleados, familias y comunidades mientras continúa sirviendo a nuestros
     clientes que cuentan nosotros para mantener en funcionamiento la producción y
     los procesos críticos.
-  imagen: https://res.cloudinary.com/drnun7bay/image/upload/v1626994116/AdobeStock_266885345_zyazml.jpg
+  imagen: https://res.cloudinary.com/drnun7bay/image/upload/v1626994441/AdobeStock_120950047_dbeopd.jpg
 menu:
   principal:
     parent: ''
