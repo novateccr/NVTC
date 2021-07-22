@@ -39,7 +39,7 @@ barra_fondo_imagen:
     nuestros empleados, familias y comunidades mientras continúa sirviendo a nuestros
     clientes que cuentan nosotros para mantener en funcionamiento la producción y
     los procesos críticos.
-  imagen: https://res.cloudinary.com/novatec/image/upload/f_auto,q_80/v1530333582/slide3-dark.jpg
+  imagen: v1626993661/AdobeStock_246126292_uzbje1.jpg
 menu:
   principal:
     parent: ''
