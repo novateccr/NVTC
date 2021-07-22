@@ -8,22 +8,22 @@ slides:
   published: true
   link: ''
 - title: Fibra Tuffstrand
-  description: 'Fibra Tuffstrand '
+  description: Macrofibra para refuerzo estructural.
   image: "/v1603234768/Fibra_Tuffstrand_f_v2akdq.jpg"
   published: true
   link: ''
 - image: "/v1622730758/Imagen_4_g9rjbv.jpg"
   published: false
   link: ''
-  title: Confíe en la excelencia...
+  title: Confíe en la excelencia!
   description: Estamos para servirle
 - title: Novatec Construcción.
   description: Consúltenos!
   image: "/v1622730844/Imagen_3_t2bkw0.jpg"
   published: false
   link: ''
-- title: Consulte con uno de nuestros asesores...
-  description: Estamos para servirle
+- title: Consulte con uno de nuestros asesores.
+  description: Estamos para servirle!
   image: "/v1622730556/Imagne_1_qqzd8m.jpg"
   published: true
   link: ''
