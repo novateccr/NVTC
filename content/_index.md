@@ -2,7 +2,7 @@
 title: Inicio
 description: Especialistas en soluciones para el manejo y sellado de fluidos
 slides:
-- title: En servicio para la Construcción!
+- title: Productos de alta calidad para la Construcción.
   description: Morteros - Fibras - Juntas - Sellos - Pisos
   image: "/v1622730672/Imagen_2_jnnvpm.jpg"
   published: true
