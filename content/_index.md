@@ -17,7 +17,7 @@ slides:
   link: ''
   title: Confíe en la excelencia...
   description: Estamos para servirle
-- title: Novatec - Euclid Group
+- title: Novatec Construcción.
   description: Consúltenos!
   image: "/v1622730844/Imagen_3_t2bkw0.jpg"
   published: false
