@@ -1,6 +1,5 @@
 +++
 catalogo = ""
-draft = true
 id = ""
 link = "https://www.toxement.com.co/"
 logo = "/v1627580048/Toxement_fhealj.png"
