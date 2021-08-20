@@ -9,7 +9,7 @@ marcas = ["Toxement"]
 meta_description = "Fibras para refuerzo de concreto"
 meta_keywords = "Fibras para refuerzo de concreto, Tuf Strand SF"
 taxonomyCover = false
-title = "Fibras para refuerzo de concreto"
+title = "Fibras para Refuerzo de Concreto"
 titulo_adicional = ""
 weight = ""
 
