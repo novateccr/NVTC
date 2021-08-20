@@ -32,7 +32,7 @@ Las aplicaciones típicas para TREMproof 260 incluyen muros de cimientos, muros 
 
 ![](https://res.cloudinary.com/drnun7bay/image/upload/v1613508480/WhatsApp_Image_2021-01-21_at_10.37.10-standard-scale-4_00x-gigapixel_ss0ehl.jpg)
 
-## [**2- Emulsión asfáltica Eco:**](https://www.toxement.com.co/productos/portafolio/impermeabilizaci%C3%B3n-de-placas-y-cubiertas/impermeabilizantes-asf%C3%A1lticos/?prodId=1458)
+## [**2- Emulsión Asfáltica Eco:**](https://www.toxement.com.co/productos/portafolio/impermeabilizaci%C3%B3n-de-placas-y-cubiertas/impermeabilizantes-asf%C3%A1lticos/?prodId=1458)
 
 Es un compuesto bituminoso de aplicación en frío, color negro - café, elaborado con materias primas de calidad controlada y utilizada para la impermeabilización de elementos donde se necesite una barrera que actúe contra el agua y la humedad.
 
