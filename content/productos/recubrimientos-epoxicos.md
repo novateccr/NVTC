@@ -5,11 +5,11 @@ galeria = []
 id = ""
 imagen = "/v1615921740/Dise%C3%B1o_sin_t%C3%ADtulo_8_mvmvso.png"
 industrias = []
-marcas = ["euclid chemical"]
+marcas = ["Euclid Chemical"]
 meta_description = "Recubrimientos epóxicos"
 meta_keywords = "Recubrimientos, duralkote, epóxicos"
 taxonomyCover = false
-title = "Recubrimientos epóxicos"
+title = "Recubrimientos Epóxicos"
 titulo_adicional = ""
 weight = ""
 
