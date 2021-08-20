@@ -5,11 +5,11 @@ galeria = []
 id = ""
 imagen = "/v1613503400/WhatsApp_Image_2021-02-16_at_13.14.55_zhxkyx.jpg"
 industrias = []
-marcas = ["euclid"]
+marcas = []
 meta_description = "Impermeabilizantes asfálticos"
 meta_keywords = "Impermeabilizantes asfálticos, euclid, impermeabilizante"
 taxonomyCover = false
-title = "Impermeabilizantes asfálticos"
+title = "Impermeabilizantes Asfálticos"
 titulo_adicional = ""
 weight = ""
 
