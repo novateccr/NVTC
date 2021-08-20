@@ -5,11 +5,11 @@ galeria = []
 id = ""
 imagen = "/v1613517980/WhatsApp_Image_2021-02-16_at_17.24.02_isgh60.jpg"
 industrias = []
-marcas = ["euclid"]
+marcas = ["Euclid Chemical"]
 meta_description = "Juntas epóxicas"
 meta_keywords = "Juntas epóxicas, euco 700"
 taxonomyCover = false
-title = "Relleno de Juntas epóxicas"
+title = "Relleno de Juntas Epóxicas"
 titulo_adicional = ""
 weight = ""
 
