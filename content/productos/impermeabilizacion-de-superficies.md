@@ -35,7 +35,7 @@ Recubrimiento cementicio para trabajo pesado cuya finalidad es impermeabilizar y
 * Fácil de mezclar y aplicar.
 * Sus colores decorativos combinan la apariencia con protección de larga duración.
 
-![](https://res.cloudinary.com/drnun7bay/image/upload/v1629496141/Eucoseal_yrvgtc.jpg)
+![](https://res.cloudinary.com/drnun7bay/image/upload/v1629496514/Eucoseal_qpxinj.png)
 
 ## [**2- Vandex Super Grey:**](http://www.toxement.com.co/productos/l%C3%ADneas-especiales/vandex/)
 
