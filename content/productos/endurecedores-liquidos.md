@@ -9,7 +9,7 @@ marcas = ["Toxement"]
 meta_description = "Endurecedores líquidos  "
 meta_keywords = "Endurecedores líquidos , endurecedores"
 taxonomyCover = false
-title = "Endurecedores líquidos  "
+title = "Endurecedores Líquidos  "
 titulo_adicional = ""
 weight = ""
 
