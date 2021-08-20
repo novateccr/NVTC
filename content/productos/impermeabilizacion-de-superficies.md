@@ -5,11 +5,11 @@ galeria = []
 id = ""
 imagen = "/v1615922260/Dise%C3%B1o_sin_t%C3%ADtulo_9_bipe9n.png"
 industrias = ["construccion"]
-marcas = ["euclid"]
+marcas = []
 meta_description = "Impermeabilización de superficies"
 meta_keywords = "impermeabilización, superficies"
 taxonomyCover = true
-title = "Impermeabilización de superficies"
+title = "Impermeabilización de Superficies"
 titulo_adicional = ""
 weight = ""
 
