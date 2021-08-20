@@ -5,11 +5,11 @@ galeria = []
 id = ""
 imagen = "/v1615916031/Dise%C3%B1o_sin_t%C3%ADtulo_1_rtiock.png"
 industrias = []
-marcas = ["tremco"]
+marcas = []
 meta_description = "Sellos de Bentonita "
-meta_keywords = "Sellos de Bentonita, superstop "
+meta_keywords = "Sellos de Bentonita, superstop, bentonita"
 taxonomyCover = false
-title = "Juntas frías"
+title = "Juntas Frías"
 titulo_adicional = ""
 weight = ""
 
