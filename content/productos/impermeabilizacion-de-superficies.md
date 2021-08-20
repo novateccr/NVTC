@@ -16,7 +16,7 @@ weight = ""
 +++
 ## Novatec Construcción ofrece los siguientes productos para la impermeabilización de superficies.
 
-## [**1- Eucoseal gris:**](http://www.eucomex.com.mx/portafolio/productos/impermeabilizaci%C3%B3n/sistemas-cementicios/eucoseal/)
+## [**1- Eucoseal Gris:**](http://www.eucomex.com.mx/portafolio/productos/impermeabilizaci%C3%B3n/sistemas-cementicios/eucoseal/)
 
 Recubrimiento cementicio para trabajo pesado cuya finalidad es impermeabilizar y proteger mampostería. Se mezcla con látex o agua y se aplica a la superficie de muros de mampostería o concreto. El producto sella cavidades y recubre los muros de tal modo que detiene la penetración de humedad.
 
@@ -37,7 +37,7 @@ Recubrimiento cementicio para trabajo pesado cuya finalidad es impermeabilizar y
 
 ![](https://res.cloudinary.com/drnun7bay/image/upload/v1629496514/Eucoseal_qpxinj.png)
 
-## [**2- Vandex Super Grey:**](http://www.toxement.com.co/productos/l%C3%ADneas-especiales/vandex/)
+## [**2- Vandex Super Gray:**](http://www.toxement.com.co/productos/l%C3%ADneas-especiales/vandex/)
 
 VANDEX SUPER es un producto impermeabilizante y protector que se aplica sobre superficies de concreto, sólo requiere de agua para su mezcla y posterior aplicación. Al aplicarse VANDEX SUPER sobre superficies de concreto, los componentes activos que lo conforman se combinan con la cal libre y el agua presente en el concreto, formando complejos cristalinos insolubles. Esta cristalización bloquea los capilares del concreto y fisuras evitando el paso del agua (incluso a presión negativa).
 
