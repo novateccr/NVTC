@@ -14,4 +14,4 @@ titulo_adicional = ""
 weight = ""
 
 +++
-Producto Vandex Super
+Producto Vandex Super.
