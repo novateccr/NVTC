@@ -1,5 +1,6 @@
 +++
 catalogo = ""
+draft = true
 familias = ["Impermeabilización"]
 galeria = []
 id = ""
