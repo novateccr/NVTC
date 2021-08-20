@@ -9,7 +9,7 @@ marcas = ["Toxement"]
 meta_description = "Repelentes de agua para fachadas"
 meta_keywords = "Repelentes de agua para fachadas"
 taxonomyCover = false
-title = "Repelentes de agua para fachadas"
+title = "Repelentes de Agua para Fachadas"
 titulo_adicional = ""
 weight = ""
 
