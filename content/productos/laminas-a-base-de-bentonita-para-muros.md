@@ -9,7 +9,7 @@ marcas = ["Toxement"]
 meta_description = "Láminas a base de bentonita para muros"
 meta_keywords = "Láminas a base de bentonita para muros"
 taxonomyCover = false
-title = "Láminas a base de bentonita para muros"
+title = "Láminas a Base de Bentonita para Muros"
 titulo_adicional = ""
 weight = ""
 
