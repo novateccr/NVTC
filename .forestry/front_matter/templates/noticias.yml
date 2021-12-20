@@ -26,6 +26,5 @@ fields:
   description: Debe aparecer en el home?
 pages:
 - content/noticias/200-anos-de-independencia.md
-- content/noticias/_index.md
 - content/noticias/cierre-fin-de-ano.md
 - content/noticias/noticia-de-prueba.md
