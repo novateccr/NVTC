@@ -28,10 +28,9 @@ slides:
   published: true
   link: ''
 barra_azul:
-  titular: Debido a la emergencia nacional por el COVID-19, estaremos con acceso controlado
-    a nuestras oficinas, para mayor facilidad nos puede contactar por correo, Whatsapp
-    o teléfono!
-  subtitular: 'Correo: sac-nc@novatec.cr - Whatsapp: 6383-6383 - Teléfono: 2239-1111'
+  titular: Agradecemos su preferencia este 2021.   Se les informa nuestras oficinas
+    cerrarán a partir del 23 de Diciembre y se retomarán labores el 3 de Enero 2022.
+  subtitular: 'Para emergencias puede contactarse a: asistencia-nc@novatec.cr'
 barra_fondo_imagen:
   texto: Juntos, enfrentamos una situación verdaderamente sin precedentes. La pandemia
     global de COVID-19 afecta a nuestras familias, nuestros negocios, nuestras comunidades
