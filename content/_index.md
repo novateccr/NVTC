@@ -28,9 +28,9 @@ slides:
   published: true
   link: ''
 barra_azul:
-  titular: Agradecemos su preferencia este 2021.   Se les informa nuestras oficinas
-    cerrarán a partir del 23 de Diciembre y se retomarán labores el 3 de Enero 2022.
-  subtitular: 'Para emergencias puede contactarse a: asistencia-nc@novatec.cr'
+  titular: NVT Construcción. Líderes en soluciones para la Construcción.
+  subtitular: 'Para consultas y cotizaciones contactarse al correo: sac-nc@novatec.cr
+    o al WhatsApp: 6383-6383'
 barra_fondo_imagen:
   texto: Juntos, enfrentamos una situación verdaderamente sin precedentes. La pandemia
     global de COVID-19 afecta a nuestras familias, nuestros negocios, nuestras comunidades
