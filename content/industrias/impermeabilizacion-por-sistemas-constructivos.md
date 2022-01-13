@@ -1,6 +1,5 @@
 +++
 catalogo = ""
-draft = true
 id = ""
 imagen = ""
 link = ""
