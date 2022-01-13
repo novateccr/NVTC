@@ -1,7 +1,7 @@
 ---
 title: Impermeabilización por Sistemas Constructivos
 id: "2"
-imagen: "/v1622730672/Imagen_2_jnnvpm.jpg"
+imagen: ''
 link: ''
 catalogo: ''
 meta_keywords: impermeabilizacion, impermeabilizantes, tanques, euco, transitables,
@@ -13,7 +13,7 @@ weight: "1"
 ---
 # **Tanques de Agua**
 
-Para el servicio de impermeabilización de taques de concreto para almacenamiento de agua, es necesario tomar en cuenta los parámetros necesarios para la correcta aplicación del material, algunos pasos a seguir pueden ser la impermeabilización superficial interna, tratamiento de juntas y protección de la membrana.
+Para el servicio de impermeabilización de taques de concreto                            para almacenamiento de agua, es necesario tomar en cuenta los parámetros necesarios para la correcta aplicación del material, algunos pasos a seguir pueden ser la impermeabilización superficial interna, tratamiento de juntas y protección de la membrana.
 
 #### Productos a utilizar:
 
