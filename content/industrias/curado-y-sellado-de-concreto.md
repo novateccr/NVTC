@@ -1,5 +1,5 @@
 ---
-title: Curado y Sellado de concreto
+title: Impermeabilización por Sistemas Constructivos
 id: "2"
 imagen: ''
 link: ''
