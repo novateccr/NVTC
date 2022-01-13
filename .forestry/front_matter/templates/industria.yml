@@ -63,4 +63,5 @@ fields:
     label: Principal
   label: Menu
 pages:
+- content/industrias/impermeabilizacion-por-sistemas-constructivos.md
 - content/industrias/servico-de-prueba1.md
