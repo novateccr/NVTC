@@ -1,5 +1,6 @@
 +++
 catalogo = ""
+draft = true
 id = ""
 link = "https://www.stegoindustries.com/"
 logo = "/v1603230058/stego-logo_vso6ce.webp"
