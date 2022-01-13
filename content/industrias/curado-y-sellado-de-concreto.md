@@ -11,6 +11,10 @@ weight: "1"
 ---
 # **Tanques de Agua**
 
-Servicio de impermeabilización de taques de concreto para almacenamiento de agua, es necesario 
+Servicio de impermeabilización de taques de concreto para almacenamiento de agua, es necesario
+
+### Productos a utilizar: 
 
 #### [Duralkote 240](https://www.nvtconstruccion.com/productos/recubrimientos-epoxicos/)
+
+#### [Eucoseal](https://www.nvtconstruccion.com/productos/impermeabilizantes-cementicios/)
