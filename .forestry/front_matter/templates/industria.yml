@@ -63,4 +63,5 @@ fields:
     label: Principal
   label: Menu
 pages:
+- content/industrias/Impermeabilización por Sistemas Constructivos/tanques-de-agua.md
 - content/industrias/servico-de-prueba1.md
