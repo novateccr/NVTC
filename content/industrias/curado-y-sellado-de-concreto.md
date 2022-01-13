@@ -4,7 +4,9 @@ id: "2"
 imagen: "/v1622730672/Imagen_2_jnnvpm.jpg"
 link: ''
 catalogo: ''
-meta_keywords: ''
+meta_keywords: impermeabilizacion, impermeabilizantes, tanques, euco, transitables,
+  muros, enterrados, duralkote, peatonales, vehiculares, vulkem, tremproof, emulsión
+  asfáltica, drentex
 meta_description: ''
 weight: "1"
 
