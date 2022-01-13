@@ -7,6 +7,5 @@ catalogo: ''
 meta_keywords: ''
 meta_description: ''
 weight: "1"
-draft: true
 
 ---
