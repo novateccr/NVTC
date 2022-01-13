@@ -13,8 +13,8 @@ weight: "1"
 
 Para el servicio de impermeabilización de taques de concreto para almacenamiento de agua, es necesario tomar en cuenta los parámetros necesarios para la correcta aplicación del material, algunos pasos a seguir pueden ser la impermeabilización superficial interna, tratamiento de juntas y protección de la membrana.
 
-### Productos a utilizar:
+#### Productos a utilizar:
 
-#### [Duralkote 240](https://www.nvtconstruccion.com/productos/recubrimientos-epoxicos/)
+##### [Duralkote 240](https://www.nvtconstruccion.com/productos/recubrimientos-epoxicos/)
 
-#### [Eucoseal](https://www.nvtconstruccion.com/productos/impermeabilizantes-cementicios/)
+##### [Eucoseal](https://www.nvtconstruccion.com/productos/impermeabilizantes-cementicios/)
