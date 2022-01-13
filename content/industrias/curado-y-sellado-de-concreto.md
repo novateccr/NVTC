@@ -1,7 +1,7 @@
 ---
 title: Impermeabilización por Sistemas Constructivos
 id: "2"
-imagen: ''
+imagen: "/v1622730672/Imagen_2_jnnvpm.jpg"
 link: ''
 catalogo: ''
 meta_keywords: ''
