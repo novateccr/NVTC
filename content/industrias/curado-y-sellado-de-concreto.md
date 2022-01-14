@@ -21,6 +21,8 @@ Para el servicio de impermeabilización de taques de concreto                   
 
 ##### [Eucoseal](https://www.nvtconstruccion.com/productos/impermeabilizantes-cementicios/)
 
+![](https://res.cloudinary.com/drnun7bay/image/upload/v1613508107/WhatsApp_Image_2021-02-16_at_14.41.26_rfftgu.jpg)
+
 # Impermeabilizaciones Transitables
 
 Para áreas que tendrán tránsito tanto vehicular como peatonal, se realiza el servicio de impermeabilización con las mayores exigencias y la más alta calidad de los productos, por lo que utilizamos sistemas que cumplen con los parámetros de durabilidad, calidad y desempeño en el proceso de impermeabilización.
