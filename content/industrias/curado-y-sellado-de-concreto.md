@@ -26,3 +26,11 @@ Para el servicio de impermeabilización de taques de concreto                   
 Para áreas que tendrán tránsito tanto vehicular como peatonal, se realiza el servicio de impermeabilización con las mayores exigencias y la más alta calidad de los productos, por lo que utilizamos sistemas que cumplen con los parámetros de durabilidad, calidad y desempeño en el proceso de impermeabilización.
 
 #### Productos a utilizar:
+
+##### Peatonales: [Vulkem 350NF / 351](https://www.nvtconstruccion.com/productos/impermeabilizantes-base-poliuretano/)
+
+##### Vehiculares: 
+
+##### Geogard.
+
+##### Deckshield.
