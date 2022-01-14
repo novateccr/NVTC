@@ -20,3 +20,9 @@ Para el servicio de impermeabilización de taques de concreto                   
 ##### [Duralkote 240](https://www.nvtconstruccion.com/productos/recubrimientos-epoxicos/)
 
 ##### [Eucoseal](https://www.nvtconstruccion.com/productos/impermeabilizantes-cementicios/)
+
+# Impermeabilizaciones Transitables
+
+Para áreas que tendrán tránsito tanto vehicular como peatonal, se realiza el servicio de impermeabilización con las mayores exigencias y la más alta calidad de los productos, por lo que utilizamos sistemas que cumplen con los parámetros de durabilidad, calidad y desempeño en el proceso de impermeabilización.
+
+#### Productos a utilizar:
