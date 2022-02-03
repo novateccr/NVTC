@@ -1,7 +1,7 @@
 ---
 title: Impermeabilización por Sistemas Constructivos
 id: "2"
-imagen: "/v1626994441/AdobeStock_120950047_dbeopd.jpg"
+imagen: "/v1622730672/Imagen_2_jnnvpm.jpg"
 link: ''
 catalogo: ''
 meta_keywords: impermeabilizacion, impermeabilizantes, tanques, euco, transitables,
