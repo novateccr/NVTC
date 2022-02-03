@@ -7,37 +7,17 @@
     <div class="row">
       <div class="industria-page-imagen">
         <img src="{{ $.Site.Params.cloudinary_url }}w_500,h_350,c_fill,f_auto{{ .Params.imagen }}" alt="{{ .Title }}">
-
         {{ with .Params.catalogo }}
           <div class="text-center small-text">
             <a href="{{ . }}" download="Catalogo Industria {{$.Title}} - Novatec.pdf">
               <i class="fa fa-file-pdf-o"></i><br> Descargar catálogo de Agrícola
             </a>
           </div>
-        {{ end }}
-        {{ .Content }}
-      </div>
-      <!-- <div class="industria-page-productos">
-        <h2>Productos</h2>
-        <ul class="pages-list">
-        {{ $array := slice .Title }}
-        {{ $.Scratch.Set "marcas" (slice "") }}
-        {{ $paginas := where .Site.RegularPages "Params.industrias" "intersect" $array }}
-        <ul class="pages-list">
-          {{ range $paginas }}
-
-            {{ with .Params.marcas}}
-              {{ range . }}
-                {{ $.Scratch.Add "marcas" (slice .) }}
-              {{ end }}
-            {{ end}}
-            
-            <li>
-              <a href="{{ .Permalink }}">{{ .Title }}</a>
-            </li>
           {{ end }}
-        </ul>
-      </div> -->
+            <div style="width: calc(300% - 26.66667px)!IMPORTANT;">
+              {{ .Content }}
+            </div>
+      </div>
 
     </div>
   </div>
