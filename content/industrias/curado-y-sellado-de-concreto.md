@@ -1,7 +1,7 @@
 ---
 title: Impermeabilización por Sistemas Constructivos
 id: "2"
-imagen: "/v1622730672/Imagen_2_jnnvpm.jpg"
+imagen: ''
 link: ''
 catalogo: ''
 meta_keywords: impermeabilizacion, impermeabilizantes, tanques, euco, transitables,
@@ -11,6 +11,8 @@ meta_description: ''
 weight: "1"
 
 ---
+![](https://res.cloudinary.com/drnun7bay/image/upload/v1622730672/Imagen_2_jnnvpm.jpg)
+
 # **Tanques de Agua**
 
 Para el servicio de impermeabilización de taques de concreto                            para almacenamiento de agua, es necesario tomar en cuenta los parámetros necesarios para la correcta aplicación del material, algunos pasos a seguir pueden ser la impermeabilización superficial interna, tratamiento de juntas y protección de la membrana.
@@ -31,7 +33,7 @@ Para áreas que tendrán tránsito tanto vehicular como peatonal, se realiza el 
 
 ##### Peatonales: [Vulkem 350NF / 351](https://www.nvtconstruccion.com/productos/impermeabilizantes-base-poliuretano/)
 
-##### Vehiculares: 
+##### Vehiculares:
 
 ##### Geogard.
 
