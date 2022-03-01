@@ -24,3 +24,5 @@ fields:
   name: featured
   label: Featured
   description: Debe aparecer en el home?
+pages:
+- content/noticias/densificadores-para-concreto.md
