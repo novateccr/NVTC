@@ -26,4 +26,5 @@ fields:
   description: Debe aparecer en el home?
 pages:
 - content/noticias/densificadores-para-concreto.md
+- content/noticias/horario-especial-semana-santa.md
 - content/noticias/lideres-en-soluciones-flowcrete.md
