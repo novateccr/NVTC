@@ -9,6 +9,6 @@ title = "Toxement"
 weight = ""
 [menu.principal]
 parent = "Marcas"
-weight = 8
+weight = 6
 
 +++
