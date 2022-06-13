@@ -11,9 +11,7 @@ meta_description: ''
 weight: "1"
 
 ---
-![](https://res.cloudinary.com/drnun7bay/image/upload/v1622730672/Imagen_2_jnnvpm.jpg)
-
-# **Tanques de Agua**
+## **Tanques de Agua**
 
 Para el servicio de impermeabilización de taques de concreto                            para almacenamiento de agua, es necesario tomar en cuenta los parámetros necesarios para la correcta aplicación del material, algunos pasos a seguir pueden ser la impermeabilización superficial interna, tratamiento de juntas y protección de la membrana.
 
@@ -23,9 +21,7 @@ Para el servicio de impermeabilización de taques de concreto                   
 
 ##### [Eucoseal](https://www.nvtconstruccion.com/productos/impermeabilizantes-cementicios/)
 
-![](https://res.cloudinary.com/drnun7bay/image/upload/v1613508107/WhatsApp_Image_2021-02-16_at_14.41.26_rfftgu.jpg)
-
-# Impermeabilizaciones Transitables
+## Impermeabilizaciones Transitables
 
 Para áreas que tendrán tránsito tanto vehicular como peatonal, se realiza el servicio de impermeabilización con las mayores exigencias y la más alta calidad de los productos, por lo que utilizamos sistemas que cumplen con los parámetros de durabilidad, calidad y desempeño en el proceso de impermeabilización.
 
