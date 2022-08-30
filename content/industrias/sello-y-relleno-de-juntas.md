@@ -1,5 +1,6 @@
 +++
 catalogo = ""
+draft = true
 id = "2"
 imagen = ""
 link = ""
