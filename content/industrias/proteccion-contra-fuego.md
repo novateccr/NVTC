@@ -1,6 +1,7 @@
 +++
 catalogo = ""
 id = ""
+imagen = "/v1661896667/Selladores-de-Juntas_xiiqpv.jpg"
 link = ""
 logo = "/v1603230058/stego-logo_vso6ce.webp"
 title = "Sello y Relleno de Juntas"
