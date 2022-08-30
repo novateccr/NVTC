@@ -1,6 +1,5 @@
 +++
 catalogo = ""
-draft = true
 id = ""
 link = ""
 logo = "/v1603230058/stego-logo_vso6ce.webp"
