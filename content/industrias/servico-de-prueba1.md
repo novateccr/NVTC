@@ -2,11 +2,11 @@
 catalogo = ""
 draft = true
 id = ""
-imagen = "/v1622730672/Imagen_2_jnnvpm.jpg"
+imagen = "/v1661898797/lXUALevk_dh2rlf.jpg"
 link = ""
 meta_description = ""
 meta_keywords = ""
-title = "Servico de prueba1"
+title = "Acabados Para Pisos Industriales "
 weight = ""
 [menu.principal]
 parent = "Servicios"
