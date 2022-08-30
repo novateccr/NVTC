@@ -49,7 +49,7 @@ El servicio de Impermeabilización de un muro, es vital para evitar problemas de
 
 ## **Impermeabilizaciones de Losas de Techo**
 
-En cualquier tipo de construcción, la cubierta es clave para la envolvente de la edificación, ya que es el elemento que está más tiempo expuesto a la abrasión de el clima, así como a los cambios de la temperatura. Por esto, es fundamental preocuparse por el proceso de impermeabilización en esta área, los productos, aplicación y calidad.
+En cualquier tipo de construcción, la cubierta es clave para la envolvente de la edificación, ya que es el elemento que está más tiempo expuesto a la abrasión del clima, así como a los cambios de la temperatura. Por esto, es fundamental preocuparse por el proceso de impermeabilización en esta área, los productos, aplicación y calidad.
 
 #### Productos a utilizar:
 
