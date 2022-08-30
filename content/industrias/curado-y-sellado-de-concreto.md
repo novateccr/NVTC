@@ -21,7 +21,7 @@ Para el servicio de impermeabilización de taques de concreto                   
 
 ##### [Eucoseal](https://www.nvtconstruccion.com/productos/impermeabilizantes-cementicios/)
 
-## Impermeabilizaciones Transitables
+## **Impermeabilizaciones Transitables**
 
 Para áreas que tendrán tránsito tanto vehicular como peatonal, se realiza el servicio de impermeabilización con las mayores exigencias y la más alta calidad de los productos, por lo que utilizamos sistemas que cumplen con los parámetros de durabilidad, calidad y desempeño en el proceso de impermeabilización.
 
@@ -34,3 +34,27 @@ Para áreas que tendrán tránsito tanto vehicular como peatonal, se realiza el 
 ##### Geogard.
 
 ##### Deckshield.
+
+## **Impermeabilizaciones de Muros Enterrados**
+
+El servicio de Impermeabilización de un muro, es vital para evitar problemas de patología constructiva. La impermeabilización de la superficie debe realizarse de tal forma que evite la penetración del agua en el concreto o mampostería.
+
+#### Productos a utilizar:
+
+##### Eucoseal
+
+##### Eucoplus
+
+##### Vulkem 350 EP + Arena Sílica
+
+## **Impermeabilizaciones de Losas de Techo**
+
+En cualquier tipo de construcción, la cubierta es clave para la envolvente de la edificación, ya que es el elemento que está más tiempo expuesto a la abrasión de el clima, así como a los cambios de la temperatura. Por esto, es fundamental preocuparse por el proceso de impermeabilización en esta área, los productos, aplicación y calidad.
+
+#### Productos a utilizar:
+
+##### Vulkem OC810
+
+##### Vulkem 350 NF / 351
+
+##### Geogard
