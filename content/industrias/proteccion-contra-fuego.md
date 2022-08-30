@@ -20,3 +20,13 @@ Con un buen proceso de sello de juntas y un adecuado mantenimiento, se asegurar�
 ##### Dymonic 100
 
 ##### Vulkem 45 SSL
+
+# **Relleno de Juntas Semirigidas:**
+
+Con un buen proceso de relleno de juntas y un adecuado mantenimiento, se asegurará en buena medida la vida de un piso de concreto. Con el relleno para juntas en pisos industriales y comerciales, se busca brindar soporte a los bordes de las juntas para prevenir su desportillamiento por el tráfico de las llantas.
+
+#### Productos a utilizar:
+
+##### Euco 700
+
+##### Euco Qwick Joint
