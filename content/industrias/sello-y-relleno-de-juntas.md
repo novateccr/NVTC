@@ -6,7 +6,7 @@ link = ""
 meta_description = ""
 meta_keywords = ""
 title = "Sello y Relleno de Juntas"
-weight = ""
+weight = "1"
 [menu.principal]
 parent = ""
 weight = 6
