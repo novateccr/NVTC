@@ -32,12 +32,8 @@ barra_azul:
   subtitular: 'Para consultas y cotizaciones contactarse al correo: sac@novatec.cr
     o al WhatsApp: 6383-6383'
 barra_fondo_imagen:
-  texto: Juntos, enfrentamos una situación verdaderamente sin precedentes. La pandemia
-    global de COVID-19 afecta a nuestras familias, nuestros negocios, nuestras comunidades
-    y nuestra forma de vida. El Grupo Novatec está comprometido con la seguridad de
-    nuestros empleados, familias y comunidades mientras continúa sirviendo a nuestros
-    clientes que cuentan nosotros para mantener en funcionamiento la producción y
-    los procesos críticos.
+  texto: El Grupo Novatec está comprometido con la seguridad y búsqueda de soluciones
+    para las construcciones de nuestros clientes.
   imagen: https://res.cloudinary.com/drnun7bay/image/upload/v1626994441/AdobeStock_120950047_dbeopd.jpg
 menu:
   principal:
