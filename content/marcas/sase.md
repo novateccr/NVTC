@@ -1,6 +1,5 @@
 +++
 catalogo = ""
-draft = true
 id = ""
 link = "https://sasecompany.com/"
 logo = "/v1668541446/descarga_7_j4aody.png"
