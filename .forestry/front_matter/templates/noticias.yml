@@ -25,6 +25,7 @@ fields:
   label: Featured
   description: Debe aparecer en el home?
 pages:
+- content/noticias/cierre-fin-de-ano.md
 - content/noticias/densificadores-para-concreto.md
 - content/noticias/lideres-en-soluciones-flowcrete.md
 - content/noticias/sellador-de-poliuretano-dymonic.md
