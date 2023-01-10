@@ -2,12 +2,16 @@
 catalogo = ""
 draft = true
 id = "1"
-imagen = "/v1603219620/samples/landscapes/beach-boat.jpg"
+imagen = "/v1673385347/djsdfioafjasdcv_y2qig6.jpg"
 link = ""
 meta_description = ""
 meta_keywords = ""
-title = "Another Service"
+title = "Mantenimiento y Reparación de Techos Industriales"
 weight = ""
 
 +++
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Mantenimiento y Reparación de Techos Industriales
+
+![](https://res.cloudinary.com/novatec/v1668541851/0_suurbl_sdk65a.jpg)
+
+Novatec le ofrece el servicio de impermeabilización y recubrimiento de techos como la solución más completa de la industria para restauración, reparación, mantenimiento, reemplazo y nueva construcción.
