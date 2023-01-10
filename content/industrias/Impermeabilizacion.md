@@ -12,6 +12,8 @@ draft: true
 ---
 ### Pulido de Pisos
 
+![](https://res.cloudinary.com/drnun7bay/image/upload/v1673384642/AdobeStock_316301009_uwfzao.jpg)
+
 Le ofrecemos el servicio de pulido de pisos.
 
 Entregando la mejor calidad y eficiencia, utilizando las últimas tecnologías y los equipos y herramientas más destacados del mercado, ofreciendo así trabajos de experiencia, ejecutado por personal altamente calificado.
