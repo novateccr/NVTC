@@ -7,7 +7,6 @@ catalogo: ''
 meta_keywords: pulido, pisos, pulido de pisos, mantenimiento de pisos
 meta_description: ''
 weight: "1"
-draft: true
 
 ---
 ### Pulido de Pisos
